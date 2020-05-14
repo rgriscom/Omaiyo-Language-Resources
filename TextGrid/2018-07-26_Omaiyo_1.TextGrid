@@ -1,0 +1,3418 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4432.836
+tiers? <exists>
+size = 5
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "REF-ID"
+        xmin = 0.0
+        xmax = 4432.836
+        intervals: size = 169
+        intervals [1]
+            xmin = 0.0
+            xmax = 2335.654
+            text = ""
+        intervals [2]
+            xmin = 2335.654
+            xmax = 2336.431
+            text = "2018-07-26_Omaiyo_3_01"
+        intervals [3]
+            xmin = 2336.431
+            xmax = 2340.856
+            text = ""
+        intervals [4]
+            xmin = 2340.856
+            xmax = 2341.586
+            text = "2018-07-26_Omaiyo_3_02"
+        intervals [5]
+            xmin = 2341.586
+            xmax = 2350.406
+            text = ""
+        intervals [6]
+            xmin = 2350.406
+            xmax = 2351.338
+            text = "2018-07-26_Omaiyo_3_03"
+        intervals [7]
+            xmin = 2351.338
+            xmax = 2352.508
+            text = ""
+        intervals [8]
+            xmin = 2352.508
+            xmax = 2353.231
+            text = "2018-07-26_Omaiyo_3_04"
+        intervals [9]
+            xmin = 2353.231
+            xmax = 2354.783
+            text = ""
+        intervals [10]
+            xmin = 2354.783
+            xmax = 2355.445
+            text = "2018-07-26_Omaiyo_3_05"
+        intervals [11]
+            xmin = 2355.445
+            xmax = 2376.94
+            text = ""
+        intervals [12]
+            xmin = 2376.94
+            xmax = 2378.135
+            text = "2018-07-26_Omaiyo_3_06"
+        intervals [13]
+            xmin = 2378.135
+            xmax = 2379.162
+            text = ""
+        intervals [14]
+            xmin = 2379.162
+            xmax = 2379.984
+            text = "2018-07-26_Omaiyo_3_07"
+        intervals [15]
+            xmin = 2379.984
+            xmax = 2381.947
+            text = ""
+        intervals [16]
+            xmin = 2381.947
+            xmax = 2382.944
+            text = "2018-07-26_Omaiyo_3_08"
+        intervals [17]
+            xmin = 2382.944
+            xmax = 2385.939
+            text = ""
+        intervals [18]
+            xmin = 2385.939
+            xmax = 2386.822
+            text = "2018-07-26_Omaiyo_3_09"
+        intervals [19]
+            xmin = 2386.822
+            xmax = 2405.971
+            text = ""
+        intervals [20]
+            xmin = 2405.971
+            xmax = 2407.402
+            text = "2018-07-26_Omaiyo_3_10"
+        intervals [21]
+            xmin = 2407.402
+            xmax = 2408.224
+            text = ""
+        intervals [22]
+            xmin = 2408.224
+            xmax = 2409.882
+            text = "2018-07-26_Omaiyo_3_11"
+        intervals [23]
+            xmin = 2409.882
+            xmax = 2410.025
+            text = ""
+        intervals [24]
+            xmin = 2410.025
+            xmax = 2411.181
+            text = "2018-07-26_Omaiyo_3_12"
+        intervals [25]
+            xmin = 2411.181
+            xmax = 2411.486
+            text = ""
+        intervals [26]
+            xmin = 2411.486
+            xmax = 2413.183
+            text = "2018-07-26_Omaiyo_3_13"
+        intervals [27]
+            xmin = 2413.183
+            xmax = 2416.611
+            text = ""
+        intervals [28]
+            xmin = 2416.611
+            xmax = 2418.963
+            text = "2018-07-26_Omaiyo_3_14"
+        intervals [29]
+            xmin = 2418.963
+            xmax = 2419.64
+            text = ""
+        intervals [30]
+            xmin = 2419.64
+            xmax = 2421.337
+            text = "2018-07-26_Omaiyo_3_15"
+        intervals [31]
+            xmin = 2421.337
+            xmax = 2441.439
+            text = ""
+        intervals [32]
+            xmin = 2441.439
+            xmax = 2443.144
+            text = "2018-07-26_Omaiyo_3_16"
+        intervals [33]
+            xmin = 2443.144
+            xmax = 2486.091
+            text = ""
+        intervals [34]
+            xmin = 2486.091
+            xmax = 2487.757
+            text = "2018-07-26_Omaiyo_3_17"
+        intervals [35]
+            xmin = 2487.757
+            xmax = 2488.868
+            text = ""
+        intervals [36]
+            xmin = 2488.868
+            xmax = 2490.466
+            text = "2018-07-26_Omaiyo_3_18"
+        intervals [37]
+            xmin = 2490.466
+            xmax = 2490.679
+            text = ""
+        intervals [38]
+            xmin = 2490.679
+            xmax = 2491.752
+            text = "2018-07-26_Omaiyo_3_19"
+        intervals [39]
+            xmin = 2491.752
+            xmax = 2597.123
+            text = ""
+        intervals [40]
+            xmin = 2597.123
+            xmax = 2598.638
+            text = "2018-07-26_Omaiyo_3_20"
+        intervals [41]
+            xmin = 2598.638
+            xmax = 2600.411
+            text = ""
+        intervals [42]
+            xmin = 2600.411
+            xmax = 2601.902
+            text = "2018-07-26_Omaiyo_3_21"
+        intervals [43]
+            xmin = 2601.902
+            xmax = 2646.097
+            text = ""
+        intervals [44]
+            xmin = 2646.097
+            xmax = 2647.33
+            text = "2018-07-26_Omaiyo_3_22"
+        intervals [45]
+            xmin = 2647.33
+            xmax = 2647.444
+            text = ""
+        intervals [46]
+            xmin = 2647.444
+            xmax = 2649.385
+            text = "2018-07-26_Omaiyo_3_23"
+        intervals [47]
+            xmin = 2649.385
+            xmax = 2649.598
+            text = ""
+        intervals [48]
+            xmin = 2649.598
+            xmax = 2651.112
+            text = "2018-07-26_Omaiyo_3_24"
+        intervals [49]
+            xmin = 2651.112
+            xmax = 2653.581
+            text = ""
+        intervals [50]
+            xmin = 2653.581
+            xmax = 2655.803
+            text = "2018-07-26_Omaiyo_3_25"
+        intervals [51]
+            xmin = 2655.803
+            xmax = 2913.187
+            text = ""
+        intervals [52]
+            xmin = 2913.187
+            xmax = 2915.249
+            text = "2018-07-26_Omaiyo_3_30"
+        intervals [53]
+            xmin = 2915.249
+            xmax = 2916.101
+            text = ""
+        intervals [54]
+            xmin = 2916.101
+            xmax = 2919.175
+            text = "2018-07-26_Omaiyo_3_31"
+        intervals [55]
+            xmin = 2919.175
+            xmax = 2919.759
+            text = ""
+        intervals [56]
+            xmin = 2919.759
+            xmax = 2920.885
+            text = "2018-07-26_Omaiyo_3_32"
+        intervals [57]
+            xmin = 2920.885
+            xmax = 2931.886
+            text = ""
+        intervals [58]
+            xmin = 2931.886
+            xmax = 2932.677
+            text = "2018-07-26_Omaiyo_3_33"
+        intervals [59]
+            xmin = 2932.677
+            xmax = 2932.738
+            text = ""
+        intervals [60]
+            xmin = 2932.738
+            xmax = 2934.123
+            text = "2018-07-26_Omaiyo_3_34"
+        intervals [61]
+            xmin = 2934.123
+            xmax = 2935.028
+            text = ""
+        intervals [62]
+            xmin = 2935.028
+            xmax = 2936.36
+            text = "2018-07-26_Omaiyo_3_35"
+        intervals [63]
+            xmin = 2936.36
+            xmax = 2946.326
+            text = ""
+        intervals [64]
+            xmin = 2946.326
+            xmax = 2947.148
+            text = "2018-07-26_Omaiyo_3_36"
+        intervals [65]
+            xmin = 2947.148
+            xmax = 2947.201
+            text = ""
+        intervals [66]
+            xmin = 2947.201
+            xmax = 2947.893
+            text = "2018-07-26_Omaiyo_3_37"
+        intervals [67]
+            xmin = 2947.893
+            xmax = 2952.49
+            text = ""
+        intervals [68]
+            xmin = 2952.49
+            xmax = 2953.616
+            text = "2018-07-26_Omaiyo_3_38"
+        intervals [69]
+            xmin = 2953.616
+            xmax = 2960.731
+            text = ""
+        intervals [70]
+            xmin = 2960.731
+            xmax = 2961.728
+            text = "2018-07-26_Omaiyo_3_39"
+        intervals [71]
+            xmin = 2961.728
+            xmax = 2963.387
+            text = ""
+        intervals [72]
+            xmin = 2963.387
+            xmax = 2964.042
+            text = "2018-07-26_Omaiyo_3_40"
+        intervals [73]
+            xmin = 2964.042
+            xmax = 2995.374
+            text = ""
+        intervals [74]
+            xmin = 2995.374
+            xmax = 2996.211
+            text = "2018-07-26_Omaiyo_3_41"
+        intervals [75]
+            xmin = 2996.211
+            xmax = 3000.914
+            text = ""
+        intervals [76]
+            xmin = 3000.914
+            xmax = 3001.797
+            text = "2018-07-26_Omaiyo_3_42"
+        intervals [77]
+            xmin = 3001.797
+            xmax = 3012.821
+            text = ""
+        intervals [78]
+            xmin = 3012.821
+            xmax = 3013.651
+            text = "2018-07-26_Omaiyo_3_43"
+        intervals [79]
+            xmin = 3013.651
+            xmax = 3016.733
+            text = ""
+        intervals [80]
+            xmin = 3016.733
+            xmax = 3017.669
+            text = "2018-07-26_Omaiyo_3_44"
+        intervals [81]
+            xmin = 3017.669
+            xmax = 3019.669
+            text = ""
+        intervals [82]
+            xmin = 3019.669
+            xmax = 3020.369
+            text = "2018-07-26_Omaiyo_3_45"
+        intervals [83]
+            xmin = 3020.369
+            xmax = 3076.192
+            text = ""
+        intervals [84]
+            xmin = 3076.192
+            xmax = 3077.623
+            text = "2018-07-26_Omaiyo_3_46"
+        intervals [85]
+            xmin = 3077.623
+            xmax = 3083.321
+            text = ""
+        intervals [86]
+            xmin = 3083.321
+            xmax = 3084.31
+            text = "2018-07-26_Omaiyo_3_47"
+        intervals [87]
+            xmin = 3084.31
+            xmax = 3088.03
+            text = ""
+        intervals [88]
+            xmin = 3088.03
+            xmax = 3089.042
+            text = "2018-07-26_Omaiyo_3_48"
+        intervals [89]
+            xmin = 3089.042
+            xmax = 3103.543
+            text = ""
+        intervals [90]
+            xmin = 3103.543
+            xmax = 3104.76
+            text = "2018-07-26_Omaiyo_3_49"
+        intervals [91]
+            xmin = 3104.76
+            xmax = 3107.676
+            text = ""
+        intervals [92]
+            xmin = 3107.676
+            xmax = 3109.586
+            text = "2018-07-26_Omaiyo_3_50"
+        intervals [93]
+            xmin = 3109.586
+            xmax = 3110.743
+            text = ""
+        intervals [94]
+            xmin = 3110.743
+            xmax = 3112.493
+            text = "2018-07-26_Omaiyo_3_51"
+        intervals [95]
+            xmin = 3112.493
+            xmax = 3133.729
+            text = ""
+        intervals [96]
+            xmin = 3133.729
+            xmax = 3134.49
+            text = "2018-07-26_Omaiyo_3_52"
+        intervals [97]
+            xmin = 3134.49
+            xmax = 3134.969
+            text = ""
+        intervals [98]
+            xmin = 3134.969
+            xmax = 3135.692
+            text = "2018-07-26_Omaiyo_3_53"
+        intervals [99]
+            xmin = 3135.692
+            xmax = 3135.89
+            text = ""
+        intervals [100]
+            xmin = 3135.89
+            xmax = 3136.598
+            text = "2018-07-26_Omaiyo_3_54"
+        intervals [101]
+            xmin = 3136.598
+            xmax = 3137.29
+            text = ""
+        intervals [102]
+            xmin = 3137.29
+            xmax = 3138.013
+            text = "2018-07-26_Omaiyo_3_55"
+        intervals [103]
+            xmin = 3138.013
+            xmax = 3146.086
+            text = ""
+        intervals [104]
+            xmin = 3146.086
+            xmax = 3146.824
+            text = "2018-07-26_Omaiyo_3_56"
+        intervals [105]
+            xmin = 3146.824
+            xmax = 3154.403
+            text = ""
+        intervals [106]
+            xmin = 3154.403
+            xmax = 3155.202
+            text = "2018-07-26_Omaiyo_3_57"
+        intervals [107]
+            xmin = 3155.202
+            xmax = 3191.576
+            text = ""
+        intervals [108]
+            xmin = 3191.576
+            xmax = 3192.786
+            text = "2018-07-26_Omaiyo_3_58"
+        intervals [109]
+            xmin = 3192.786
+            xmax = 3203.392
+            text = ""
+        intervals [110]
+            xmin = 3203.392
+            xmax = 3204.397
+            text = "2018-07-26_Omaiyo_3_59"
+        intervals [111]
+            xmin = 3204.397
+            xmax = 3205.127
+            text = ""
+        intervals [112]
+            xmin = 3205.127
+            xmax = 3205.911
+            text = "2018-07-26_Omaiyo_3_60"
+        intervals [113]
+            xmin = 3205.911
+            xmax = 3206.504
+            text = ""
+        intervals [114]
+            xmin = 3206.504
+            xmax = 3207.372
+            text = "2018-07-26_Omaiyo_3_61"
+        intervals [115]
+            xmin = 3207.372
+            xmax = 3210.83
+            text = ""
+        intervals [116]
+            xmin = 3210.83
+            xmax = 3211.849
+            text = "2018-07-26_Omaiyo_3_62"
+        intervals [117]
+            xmin = 3211.849
+            xmax = 3215.426
+            text = ""
+        intervals [118]
+            xmin = 3215.426
+            xmax = 3216.446
+            text = "2018-07-26_Omaiyo_3_63"
+        intervals [119]
+            xmin = 3216.446
+            xmax = 3218.804
+            text = ""
+        intervals [120]
+            xmin = 3218.804
+            xmax = 3219.779
+            text = "2018-07-26_Omaiyo_3_64"
+        intervals [121]
+            xmin = 3219.779
+            xmax = 3220.023
+            text = ""
+        intervals [122]
+            xmin = 3220.023
+            xmax = 3221.469
+            text = "2018-07-26_Omaiyo_3_65"
+        intervals [123]
+            xmin = 3221.469
+            xmax = 3255.194
+            text = ""
+        intervals [124]
+            xmin = 3255.194
+            xmax = 3255.735
+            text = "2018-07-26_Omaiyo_3_66"
+        intervals [125]
+            xmin = 3255.735
+            xmax = 3255.757
+            text = ""
+        intervals [126]
+            xmin = 3255.757
+            xmax = 3256.298
+            text = "2018-07-26_Omaiyo_3_67"
+        intervals [127]
+            xmin = 3256.298
+            xmax = 3256.511
+            text = ""
+        intervals [128]
+            xmin = 3256.511
+            xmax = 3257.256
+            text = "2018-07-26_Omaiyo_3_68"
+        intervals [129]
+            xmin = 3257.256
+            xmax = 3259.133
+            text = ""
+        intervals [130]
+            xmin = 3259.133
+            xmax = 3259.764
+            text = "2018-07-26_Omaiyo_3_69"
+        intervals [131]
+            xmin = 3259.764
+            xmax = 3274.116
+            text = ""
+        intervals [132]
+            xmin = 3274.116
+            xmax = 3275.075
+            text = "2018-07-26_Omaiyo_3_70"
+        intervals [133]
+            xmin = 3275.075
+            xmax = 3861.027
+            text = ""
+        intervals [134]
+            xmin = 3861.027
+            xmax = 3862.717
+            text = "2018-07-26_Omaiyo_3_71"
+        intervals [135]
+            xmin = 3862.717
+            xmax = 3863.538
+            text = ""
+        intervals [136]
+            xmin = 3863.538
+            xmax = 3865.015
+            text = "2018-07-26_Omaiyo_3_72"
+        intervals [137]
+            xmin = 3865.015
+            xmax = 3930.07
+            text = ""
+        intervals [138]
+            xmin = 3930.07
+            xmax = 3930.648
+            text = "2018-07-26_Omaiyo_3_73"
+        intervals [139]
+            xmin = 3930.648
+            xmax = 3931.181
+            text = ""
+        intervals [140]
+            xmin = 3931.181
+            xmax = 3931.85
+            text = "2018-07-26_Omaiyo_3_74"
+        intervals [141]
+            xmin = 3931.85
+            xmax = 3973.253
+            text = ""
+        intervals [142]
+            xmin = 3973.253
+            xmax = 3973.983
+            text = "2018-07-26_Omaiyo_3_75"
+        intervals [143]
+            xmin = 3973.983
+            xmax = 3973.999
+            text = ""
+        intervals [144]
+            xmin = 3973.999
+            xmax = 3974.531
+            text = "2018-07-26_Omaiyo_3_76"
+        intervals [145]
+            xmin = 3974.531
+            xmax = 3974.653
+            text = ""
+        intervals [146]
+            xmin = 3974.653
+            xmax = 3975.277
+            text = "2018-07-26_Omaiyo_3_77"
+        intervals [147]
+            xmin = 3975.277
+            xmax = 3996.005
+            text = ""
+        intervals [148]
+            xmin = 3996.005
+            xmax = 3996.706
+            text = "2018-07-26_Omaiyo_3_78"
+        intervals [149]
+            xmin = 3996.706
+            xmax = 3996.721
+            text = ""
+        intervals [150]
+            xmin = 3996.721
+            xmax = 3997.695
+            text = "2018-07-26_Omaiyo_3_79"
+        intervals [151]
+            xmin = 3997.695
+            xmax = 4068.845
+            text = ""
+        intervals [152]
+            xmin = 4068.845
+            xmax = 4069.88
+            text = "2018-07-26_Omaiyo_3_80"
+        intervals [153]
+            xmin = 4069.88
+            xmax = 4074.156
+            text = ""
+        intervals [154]
+            xmin = 4074.156
+            xmax = 4075.009
+            text = "2018-07-26_Omaiyo_3_81"
+        intervals [155]
+            xmin = 4075.009
+            xmax = 4078.737
+            text = ""
+        intervals [156]
+            xmin = 4078.737
+            xmax = 4079.711
+            text = "2018-07-26_Omaiyo_3_82"
+        intervals [157]
+            xmin = 4079.711
+            xmax = 4084.597
+            text = ""
+        intervals [158]
+            xmin = 4084.597
+            xmax = 4085.753
+            text = "2018-07-26_Omaiyo_3_83"
+        intervals [159]
+            xmin = 4085.753
+            xmax = 4089.071
+            text = ""
+        intervals [160]
+            xmin = 4089.071
+            xmax = 4090.091
+            text = "2018-07-26_Omaiyo_3_84"
+        intervals [161]
+            xmin = 4090.091
+            xmax = 4120.968
+            text = ""
+        intervals [162]
+            xmin = 4120.968
+            xmax = 4121.683
+            text = "2018-07-26_Omaiyo_3_85"
+        intervals [163]
+            xmin = 4121.683
+            xmax = 4122.444
+            text = ""
+        intervals [164]
+            xmin = 4122.444
+            xmax = 4123.129
+            text = "2018-07-26_Omaiyo_3_86"
+        intervals [165]
+            xmin = 4123.129
+            xmax = 4126.158
+            text = ""
+        intervals [166]
+            xmin = 4126.158
+            xmax = 4126.873
+            text = "2018-07-26_Omaiyo_3_87"
+        intervals [167]
+            xmin = 4126.873
+            xmax = 4134.574
+            text = ""
+        intervals [168]
+            xmin = 4134.574
+            xmax = 4135.335
+            text = "2018-07-26_Omaiyo_3_88"
+        intervals [169]
+            xmin = 4135.335
+            xmax = 4432.836
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "Phonetic Transcription"
+        xmin = 0.0
+        xmax = 4432.836
+        intervals: size = 169
+        intervals [1]
+            xmin = 0.0
+            xmax = 2335.654
+            text = ""
+        intervals [2]
+            xmin = 2335.654
+            xmax = 2336.431
+            text = "háútà"
+        intervals [3]
+            xmin = 2336.431
+            xmax = 2340.856
+            text = ""
+        intervals [4]
+            xmin = 2340.856
+            xmax = 2341.586
+            text = "háútà"
+        intervals [5]
+            xmin = 2341.586
+            xmax = 2350.406
+            text = ""
+        intervals [6]
+            xmin = 2350.406
+            xmax = 2351.338
+            text = "háútà"
+        intervals [7]
+            xmin = 2351.338
+            xmax = 2352.508
+            text = ""
+        intervals [8]
+            xmin = 2352.508
+            xmax = 2353.231
+            text = "háútà"
+        intervals [9]
+            xmin = 2353.231
+            xmax = 2354.783
+            text = ""
+        intervals [10]
+            xmin = 2354.783
+            xmax = 2355.445
+            text = "háútà"
+        intervals [11]
+            xmin = 2355.445
+            xmax = 2376.94
+            text = ""
+        intervals [12]
+            xmin = 2376.94
+            xmax = 2378.135
+            text = "kùháítá"
+        intervals [13]
+            xmin = 2378.135
+            xmax = 2379.162
+            text = ""
+        intervals [14]
+            xmin = 2379.162
+            xmax = 2379.984
+            text = "kùháítá"
+        intervals [15]
+            xmin = 2379.984
+            xmax = 2381.947
+            text = ""
+        intervals [16]
+            xmin = 2381.947
+            xmax = 2382.944
+            text = "kùháítá"
+        intervals [17]
+            xmin = 2382.944
+            xmax = 2385.939
+            text = ""
+        intervals [18]
+            xmin = 2385.939
+            xmax = 2386.822
+            text = "kùháítá"
+        intervals [19]
+            xmin = 2386.822
+            xmax = 2405.971
+            text = ""
+        intervals [20]
+            xmin = 2405.971
+            xmax = 2407.402
+            text = "ǹdàháŋútú ŋ́wéːkà"
+        intervals [21]
+            xmin = 2407.402
+            xmax = 2408.224
+            text = ""
+        intervals [22]
+            xmin = 2408.224
+            xmax = 2409.882
+            text = "ǹdàháŋútú ŋ́wéːkà"
+        intervals [23]
+            xmin = 2409.882
+            xmax = 2410.025
+            text = ""
+        intervals [24]
+            xmin = 2410.025
+            xmax = 2411.181
+            text = "ǹdàháŋútú ŋ́wéːkà"
+        intervals [25]
+            xmin = 2411.181
+            xmax = 2411.486
+            text = ""
+        intervals [26]
+            xmin = 2411.486
+            xmax = 2413.183
+            text = "ǹdàháŋútú ŋ́wéːkà"
+        intervals [27]
+            xmin = 2413.183
+            xmax = 2416.611
+            text = ""
+        intervals [28]
+            xmin = 2416.611
+            xmax = 2418.963
+            text = "ǹdàháŋútú ŋ́wéːkà"
+        intervals [29]
+            xmin = 2418.963
+            xmax = 2419.64
+            text = ""
+        intervals [30]
+            xmin = 2419.64
+            xmax = 2421.337
+            text = "ǹdàháŋútú ŋ́wéːkà"
+        intervals [31]
+            xmin = 2421.337
+            xmax = 2441.439
+            text = ""
+        intervals [32]
+            xmin = 2441.439
+            xmax = 2443.144
+            text = "ǹdàháŋútú ŋ́wéːkà"
+        intervals [33]
+            xmin = 2443.144
+            xmax = 2486.091
+            text = ""
+        intervals [34]
+            xmin = 2486.091
+            xmax = 2487.757
+            text = "hǒːtà"
+        intervals [35]
+            xmin = 2487.757
+            xmax = 2488.868
+            text = ""
+        intervals [36]
+            xmin = 2488.868
+            xmax = 2490.466
+            text = "hǒːtà"
+        intervals [37]
+            xmin = 2490.466
+            xmax = 2490.679
+            text = ""
+        intervals [38]
+            xmin = 2490.679
+            xmax = 2491.752
+            text = "hǒːtà"
+        intervals [39]
+            xmin = 2491.752
+            xmax = 2597.123
+            text = ""
+        intervals [40]
+            xmin = 2597.123
+            xmax = 2598.638
+            text = "hǒːtà"
+        intervals [41]
+            xmin = 2598.638
+            xmax = 2600.411
+            text = ""
+        intervals [42]
+            xmin = 2600.411
+            xmax = 2601.902
+            text = "hǒːtà"
+        intervals [43]
+            xmin = 2601.902
+            xmax = 2646.097
+            text = ""
+        intervals [44]
+            xmin = 2646.097
+            xmax = 2647.33
+            text = "ǹdàhé róríjàngà"
+        intervals [45]
+            xmin = 2647.33
+            xmax = 2647.444
+            text = ""
+        intervals [46]
+            xmin = 2647.444
+            xmax = 2649.385
+            text = "ǹdàhé róríjàngà"
+        intervals [47]
+            xmin = 2649.385
+            xmax = 2649.598
+            text = ""
+        intervals [48]
+            xmin = 2649.598
+            xmax = 2651.112
+            text = "ǹdàhé róríjàngà"
+        intervals [49]
+            xmin = 2651.112
+            xmax = 2653.581
+            text = ""
+        intervals [50]
+            xmin = 2653.581
+            xmax = 2655.803
+            text = "ǹdàhé róríjàngà"
+        intervals [51]
+            xmin = 2655.803
+            xmax = 2913.187
+            text = ""
+        intervals [52]
+            xmin = 2913.187
+            xmax = 2915.249
+            text = "dáŋwégà"
+        intervals [53]
+            xmin = 2915.249
+            xmax = 2916.101
+            text = ""
+        intervals [54]
+            xmin = 2916.101
+            xmax = 2919.175
+            text = "dáŋwégà"
+        intervals [55]
+            xmin = 2919.175
+            xmax = 2919.759
+            text = ""
+        intervals [56]
+            xmin = 2919.759
+            xmax = 2920.885
+            text = "dáŋwégà"
+        intervals [57]
+            xmin = 2920.885
+            xmax = 2931.886
+            text = ""
+        intervals [58]
+            xmin = 2931.886
+            xmax = 2932.677
+            text = "dáŋwégà"
+        intervals [59]
+            xmin = 2932.677
+            xmax = 2932.738
+            text = ""
+        intervals [60]
+            xmin = 2932.738
+            xmax = 2934.123
+            text = "dáŋwégà"
+        intervals [61]
+            xmin = 2934.123
+            xmax = 2935.028
+            text = ""
+        intervals [62]
+            xmin = 2935.028
+            xmax = 2936.36
+            text = "dáŋwégà"
+        intervals [63]
+            xmin = 2936.36
+            xmax = 2946.326
+            text = ""
+        intervals [64]
+            xmin = 2946.326
+            xmax = 2947.148
+            text = "dáŋwégà"
+        intervals [65]
+            xmin = 2947.148
+            xmax = 2947.201
+            text = ""
+        intervals [66]
+            xmin = 2947.201
+            xmax = 2947.893
+            text = "dáŋwégà"
+        intervals [67]
+            xmin = 2947.893
+            xmax = 2952.49
+            text = ""
+        intervals [68]
+            xmin = 2952.49
+            xmax = 2953.616
+            text = "dáŋwégà"
+        intervals [69]
+            xmin = 2953.616
+            xmax = 2960.731
+            text = ""
+        intervals [70]
+            xmin = 2960.731
+            xmax = 2961.728
+            text = "dáŋwégà"
+        intervals [71]
+            xmin = 2961.728
+            xmax = 2963.387
+            text = ""
+        intervals [72]
+            xmin = 2963.387
+            xmax = 2964.042
+            text = "dáŋwégà"
+        intervals [73]
+            xmin = 2964.042
+            xmax = 2995.374
+            text = ""
+        intervals [74]
+            xmin = 2995.374
+            xmax = 2996.211
+            text = "béégà"
+        intervals [75]
+            xmin = 2996.211
+            xmax = 3000.914
+            text = ""
+        intervals [76]
+            xmin = 3000.914
+            xmax = 3001.797
+            text = "béégà"
+        intervals [77]
+            xmin = 3001.797
+            xmax = 3012.821
+            text = ""
+        intervals [78]
+            xmin = 3012.821
+            xmax = 3013.651
+            text = "béégà"
+        intervals [79]
+            xmin = 3013.651
+            xmax = 3016.733
+            text = ""
+        intervals [80]
+            xmin = 3016.733
+            xmax = 3017.669
+            text = "béégà"
+        intervals [81]
+            xmin = 3017.669
+            xmax = 3019.669
+            text = ""
+        intervals [82]
+            xmin = 3019.669
+            xmax = 3020.369
+            text = "béégà"
+        intervals [83]
+            xmin = 3020.369
+            xmax = 3076.192
+            text = ""
+        intervals [84]
+            xmin = 3076.192
+            xmax = 3077.623
+            text = "háŋákìnè"
+        intervals [85]
+            xmin = 3077.623
+            xmax = 3083.321
+            text = ""
+        intervals [86]
+            xmin = 3083.321
+            xmax = 3084.31
+            text = "háŋákìnè"
+        intervals [87]
+            xmin = 3084.31
+            xmax = 3088.03
+            text = ""
+        intervals [88]
+            xmin = 3088.03
+            xmax = 3089.042
+            text = "háŋákìnè"
+        intervals [89]
+            xmin = 3089.042
+            xmax = 3103.543
+            text = ""
+        intervals [90]
+            xmin = 3103.543
+            xmax = 3104.76
+            text = "háŋákìnè"
+        intervals [91]
+            xmin = 3104.76
+            xmax = 3107.676
+            text = ""
+        intervals [92]
+            xmin = 3107.676
+            xmax = 3109.586
+            text = "háŋákìnè"
+        intervals [93]
+            xmin = 3109.586
+            xmax = 3110.743
+            text = ""
+        intervals [94]
+            xmin = 3110.743
+            xmax = 3112.493
+            text = "háŋákìnè"
+        intervals [95]
+            xmin = 3112.493
+            xmax = 3133.729
+            text = ""
+        intervals [96]
+            xmin = 3133.729
+            xmax = 3134.49
+            text = "húdzájí"
+        intervals [97]
+            xmin = 3134.49
+            xmax = 3134.969
+            text = ""
+        intervals [98]
+            xmin = 3134.969
+            xmax = 3135.692
+            text = "húdzájí"
+        intervals [99]
+            xmin = 3135.692
+            xmax = 3135.89
+            text = ""
+        intervals [100]
+            xmin = 3135.89
+            xmax = 3136.598
+            text = "húdzájí"
+        intervals [101]
+            xmin = 3136.598
+            xmax = 3137.29
+            text = ""
+        intervals [102]
+            xmin = 3137.29
+            xmax = 3138.013
+            text = "húdzájí"
+        intervals [103]
+            xmin = 3138.013
+            xmax = 3146.086
+            text = ""
+        intervals [104]
+            xmin = 3146.086
+            xmax = 3146.824
+            text = "húdzájí"
+        intervals [105]
+            xmin = 3146.824
+            xmax = 3154.403
+            text = ""
+        intervals [106]
+            xmin = 3154.403
+            xmax = 3155.202
+            text = "húdzájí"
+        intervals [107]
+            xmin = 3155.202
+            xmax = 3191.576
+            text = ""
+        intervals [108]
+            xmin = 3191.576
+            xmax = 3192.786
+            text = "àrìmàndá"
+        intervals [109]
+            xmin = 3192.786
+            xmax = 3203.392
+            text = ""
+        intervals [110]
+            xmin = 3203.392
+            xmax = 3204.397
+            text = "àrìmàndá"
+        intervals [111]
+            xmin = 3204.397
+            xmax = 3205.127
+            text = ""
+        intervals [112]
+            xmin = 3205.127
+            xmax = 3205.911
+            text = "àrìmàndá"
+        intervals [113]
+            xmin = 3205.911
+            xmax = 3206.504
+            text = ""
+        intervals [114]
+            xmin = 3206.504
+            xmax = 3207.372
+            text = "àrìmàndá"
+        intervals [115]
+            xmin = 3207.372
+            xmax = 3210.83
+            text = ""
+        intervals [116]
+            xmin = 3210.83
+            xmax = 3211.849
+            text = "àrìmàndá"
+        intervals [117]
+            xmin = 3211.849
+            xmax = 3215.426
+            text = ""
+        intervals [118]
+            xmin = 3215.426
+            xmax = 3216.446
+            text = "àrìmàndá"
+        intervals [119]
+            xmin = 3216.446
+            xmax = 3218.804
+            text = ""
+        intervals [120]
+            xmin = 3218.804
+            xmax = 3219.779
+            text = "àrìmàndá"
+        intervals [121]
+            xmin = 3219.779
+            xmax = 3220.023
+            text = ""
+        intervals [122]
+            xmin = 3220.023
+            xmax = 3221.469
+            text = "àrìmàndá"
+        intervals [123]
+            xmin = 3221.469
+            xmax = 3255.194
+            text = ""
+        intervals [124]
+            xmin = 3255.194
+            xmax = 3255.735
+            text = "qɔ̀sájé"
+        intervals [125]
+            xmin = 3255.735
+            xmax = 3255.757
+            text = ""
+        intervals [126]
+            xmin = 3255.757
+            xmax = 3256.298
+            text = "qɔ̀sájé"
+        intervals [127]
+            xmin = 3256.298
+            xmax = 3256.511
+            text = ""
+        intervals [128]
+            xmin = 3256.511
+            xmax = 3257.256
+            text = "qɔ̀sájé"
+        intervals [129]
+            xmin = 3257.256
+            xmax = 3259.133
+            text = ""
+        intervals [130]
+            xmin = 3259.133
+            xmax = 3259.764
+            text = "qɔ̀sájé"
+        intervals [131]
+            xmin = 3259.764
+            xmax = 3274.116
+            text = ""
+        intervals [132]
+            xmin = 3274.116
+            xmax = 3275.075
+            text = "qɔ̀sájé"
+        intervals [133]
+            xmin = 3275.075
+            xmax = 3861.027
+            text = ""
+        intervals [134]
+            xmin = 3861.027
+            xmax = 3862.717
+            text = "ǹdàhé húbéré"
+        intervals [135]
+            xmin = 3862.717
+            xmax = 3863.538
+            text = ""
+        intervals [136]
+            xmin = 3863.538
+            xmax = 3865.015
+            text = "ǹdàhé húbéré"
+        intervals [137]
+            xmin = 3865.015
+            xmax = 3930.07
+            text = ""
+        intervals [138]
+            xmin = 3930.07
+            xmax = 3930.648
+            text = "qɔ̀sá"
+        intervals [139]
+            xmin = 3930.648
+            xmax = 3931.181
+            text = ""
+        intervals [140]
+            xmin = 3931.181
+            xmax = 3931.85
+            text = "qɔ̀sá"
+        intervals [141]
+            xmin = 3931.85
+            xmax = 3973.253
+            text = ""
+        intervals [142]
+            xmin = 3973.253
+            xmax = 3973.983
+            text = "qɔ̀sá"
+        intervals [143]
+            xmin = 3973.983
+            xmax = 3973.999
+            text = ""
+        intervals [144]
+            xmin = 3973.999
+            xmax = 3974.531
+            text = "qɔ̀sá"
+        intervals [145]
+            xmin = 3974.531
+            xmax = 3974.653
+            text = ""
+        intervals [146]
+            xmin = 3974.653
+            xmax = 3975.277
+            text = "qɔ̀sá"
+        intervals [147]
+            xmin = 3975.277
+            xmax = 3996.005
+            text = ""
+        intervals [148]
+            xmin = 3996.005
+            xmax = 3996.706
+            text = "qɔ̀sá"
+        intervals [149]
+            xmin = 3996.706
+            xmax = 3996.721
+            text = ""
+        intervals [150]
+            xmin = 3996.721
+            xmax = 3997.695
+            text = "qɔ̀sá"
+        intervals [151]
+            xmin = 3997.695
+            xmax = 4068.845
+            text = ""
+        intervals [152]
+            xmin = 4068.845
+            xmax = 4069.88
+            text = "kàjándà"
+        intervals [153]
+            xmin = 4069.88
+            xmax = 4074.156
+            text = ""
+        intervals [154]
+            xmin = 4074.156
+            xmax = 4075.009
+            text = "kàjándà"
+        intervals [155]
+            xmin = 4075.009
+            xmax = 4078.737
+            text = ""
+        intervals [156]
+            xmin = 4078.737
+            xmax = 4079.711
+            text = "kàjándà"
+        intervals [157]
+            xmin = 4079.711
+            xmax = 4084.597
+            text = ""
+        intervals [158]
+            xmin = 4084.597
+            xmax = 4085.753
+            text = "kàjándà"
+        intervals [159]
+            xmin = 4085.753
+            xmax = 4089.071
+            text = ""
+        intervals [160]
+            xmin = 4089.071
+            xmax = 4090.091
+            text = "kàjándà"
+        intervals [161]
+            xmin = 4090.091
+            xmax = 4120.968
+            text = ""
+        intervals [162]
+            xmin = 4120.968
+            xmax = 4121.683
+            text = "(q)àìtú"
+        intervals [163]
+            xmin = 4121.683
+            xmax = 4122.444
+            text = ""
+        intervals [164]
+            xmin = 4122.444
+            xmax = 4123.129
+            text = "(q)àìtú"
+        intervals [165]
+            xmin = 4123.129
+            xmax = 4126.158
+            text = ""
+        intervals [166]
+            xmin = 4126.158
+            xmax = 4126.873
+            text = "(q)àìtú"
+        intervals [167]
+            xmin = 4126.873
+            xmax = 4134.574
+            text = ""
+        intervals [168]
+            xmin = 4134.574
+            xmax = 4135.335
+            text = "(q)àìtú"
+        intervals [169]
+            xmin = 4135.335
+            xmax = 4432.836
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "Original Transcription (Richard Griscom)"
+        xmin = 0.0
+        xmax = 4432.836
+        intervals: size = 169
+        intervals [1]
+            xmin = 0.0
+            xmax = 2335.654
+            text = ""
+        intervals [2]
+            xmin = 2335.654
+            xmax = 2336.431
+            text = "háútà"
+        intervals [3]
+            xmin = 2336.431
+            xmax = 2340.856
+            text = ""
+        intervals [4]
+            xmin = 2340.856
+            xmax = 2341.586
+            text = "háútà"
+        intervals [5]
+            xmin = 2341.586
+            xmax = 2350.406
+            text = ""
+        intervals [6]
+            xmin = 2350.406
+            xmax = 2351.338
+            text = "háútà"
+        intervals [7]
+            xmin = 2351.338
+            xmax = 2352.508
+            text = ""
+        intervals [8]
+            xmin = 2352.508
+            xmax = 2353.231
+            text = "háútà"
+        intervals [9]
+            xmin = 2353.231
+            xmax = 2354.783
+            text = ""
+        intervals [10]
+            xmin = 2354.783
+            xmax = 2355.445
+            text = "háútà"
+        intervals [11]
+            xmin = 2355.445
+            xmax = 2376.94
+            text = ""
+        intervals [12]
+            xmin = 2376.94
+            xmax = 2378.135
+            text = "kùháíta"
+        intervals [13]
+            xmin = 2378.135
+            xmax = 2379.162
+            text = ""
+        intervals [14]
+            xmin = 2379.162
+            xmax = 2379.984
+            text = "kùháíta"
+        intervals [15]
+            xmin = 2379.984
+            xmax = 2381.947
+            text = ""
+        intervals [16]
+            xmin = 2381.947
+            xmax = 2382.944
+            text = "kùháíta"
+        intervals [17]
+            xmin = 2382.944
+            xmax = 2385.939
+            text = ""
+        intervals [18]
+            xmin = 2385.939
+            xmax = 2386.822
+            text = "kùháíta"
+        intervals [19]
+            xmin = 2386.822
+            xmax = 2405.971
+            text = ""
+        intervals [20]
+            xmin = 2405.971
+            xmax = 2407.402
+            text = "ǹdàháŋútú ŋ́wékà"
+        intervals [21]
+            xmin = 2407.402
+            xmax = 2408.224
+            text = ""
+        intervals [22]
+            xmin = 2408.224
+            xmax = 2409.882
+            text = "ǹdàháŋútú ŋ́wékà"
+        intervals [23]
+            xmin = 2409.882
+            xmax = 2410.025
+            text = ""
+        intervals [24]
+            xmin = 2410.025
+            xmax = 2411.181
+            text = "ǹdàháŋútú ŋ́wékà"
+        intervals [25]
+            xmin = 2411.181
+            xmax = 2411.486
+            text = ""
+        intervals [26]
+            xmin = 2411.486
+            xmax = 2413.183
+            text = "ǹdàháŋútú ŋ́wékà"
+        intervals [27]
+            xmin = 2413.183
+            xmax = 2416.611
+            text = ""
+        intervals [28]
+            xmin = 2416.611
+            xmax = 2418.963
+            text = "ǹdàháŋútú ŋ́wékà"
+        intervals [29]
+            xmin = 2418.963
+            xmax = 2419.64
+            text = ""
+        intervals [30]
+            xmin = 2419.64
+            xmax = 2421.337
+            text = "ǹdàháŋútú ŋ́wékà"
+        intervals [31]
+            xmin = 2421.337
+            xmax = 2441.439
+            text = ""
+        intervals [32]
+            xmin = 2441.439
+            xmax = 2443.144
+            text = "ǹdàháŋútú ŋ́wékà"
+        intervals [33]
+            xmin = 2443.144
+            xmax = 2486.091
+            text = ""
+        intervals [34]
+            xmin = 2486.091
+            xmax = 2487.757
+            text = "ǹdàhé háútà"
+        intervals [35]
+            xmin = 2487.757
+            xmax = 2488.868
+            text = ""
+        intervals [36]
+            xmin = 2488.868
+            xmax = 2490.466
+            text = "ǹdàhé háútà"
+        intervals [37]
+            xmin = 2490.466
+            xmax = 2490.679
+            text = ""
+        intervals [38]
+            xmin = 2490.679
+            xmax = 2491.752
+            text = "ǹdàhé háútà"
+        intervals [39]
+            xmin = 2491.752
+            xmax = 2597.123
+            text = ""
+        intervals [40]
+            xmin = 2597.123
+            xmax = 2598.638
+            text = "ǹdàhé háútà"
+        intervals [41]
+            xmin = 2598.638
+            xmax = 2600.411
+            text = ""
+        intervals [42]
+            xmin = 2600.411
+            xmax = 2601.902
+            text = "ǹdàhé háútà"
+        intervals [43]
+            xmin = 2601.902
+            xmax = 2646.097
+            text = ""
+        intervals [44]
+            xmin = 2646.097
+            xmax = 2647.33
+            text = "ǹdàhé ròrìyángá"
+        intervals [45]
+            xmin = 2647.33
+            xmax = 2647.444
+            text = ""
+        intervals [46]
+            xmin = 2647.444
+            xmax = 2649.385
+            text = "ǹdàhé ròrìyángá"
+        intervals [47]
+            xmin = 2649.385
+            xmax = 2649.598
+            text = ""
+        intervals [48]
+            xmin = 2649.598
+            xmax = 2651.112
+            text = "ǹdàhé ròrìyángá"
+        intervals [49]
+            xmin = 2651.112
+            xmax = 2653.581
+            text = ""
+        intervals [50]
+            xmin = 2653.581
+            xmax = 2655.803
+            text = "ǹdàhé ròrìyángá"
+        intervals [51]
+            xmin = 2655.803
+            xmax = 2913.187
+            text = ""
+        intervals [52]
+            xmin = 2913.187
+            xmax = 2915.249
+            text = "dáŋwéka / dáŋwéːgà"
+        intervals [53]
+            xmin = 2915.249
+            xmax = 2916.101
+            text = ""
+        intervals [54]
+            xmin = 2916.101
+            xmax = 2919.175
+            text = "dáŋwéka / dáŋwéːgà"
+        intervals [55]
+            xmin = 2919.175
+            xmax = 2919.759
+            text = ""
+        intervals [56]
+            xmin = 2919.759
+            xmax = 2920.885
+            text = "dáŋwéka / dáŋwéːgà"
+        intervals [57]
+            xmin = 2920.885
+            xmax = 2931.886
+            text = ""
+        intervals [58]
+            xmin = 2931.886
+            xmax = 2932.677
+            text = "dáŋwéka / dáŋwéːgà"
+        intervals [59]
+            xmin = 2932.677
+            xmax = 2932.738
+            text = ""
+        intervals [60]
+            xmin = 2932.738
+            xmax = 2934.123
+            text = "dáŋwéka / dáŋwéːgà"
+        intervals [61]
+            xmin = 2934.123
+            xmax = 2935.028
+            text = ""
+        intervals [62]
+            xmin = 2935.028
+            xmax = 2936.36
+            text = "dáŋwéka / dáŋwéːgà"
+        intervals [63]
+            xmin = 2936.36
+            xmax = 2946.326
+            text = ""
+        intervals [64]
+            xmin = 2946.326
+            xmax = 2947.148
+            text = "dáŋwéka / dáŋwéːgà"
+        intervals [65]
+            xmin = 2947.148
+            xmax = 2947.201
+            text = ""
+        intervals [66]
+            xmin = 2947.201
+            xmax = 2947.893
+            text = "dáŋwéka / dáŋwéːgà"
+        intervals [67]
+            xmin = 2947.893
+            xmax = 2952.49
+            text = ""
+        intervals [68]
+            xmin = 2952.49
+            xmax = 2953.616
+            text = "dáŋwéka / dáŋwéːgà"
+        intervals [69]
+            xmin = 2953.616
+            xmax = 2960.731
+            text = ""
+        intervals [70]
+            xmin = 2960.731
+            xmax = 2961.728
+            text = "dáŋwéka / dáŋwéːgà"
+        intervals [71]
+            xmin = 2961.728
+            xmax = 2963.387
+            text = ""
+        intervals [72]
+            xmin = 2963.387
+            xmax = 2964.042
+            text = "dáŋwéka / dáŋwéːgà"
+        intervals [73]
+            xmin = 2964.042
+            xmax = 2995.374
+            text = ""
+        intervals [74]
+            xmin = 2995.374
+            xmax = 2996.211
+            text = "béégà"
+        intervals [75]
+            xmin = 2996.211
+            xmax = 3000.914
+            text = ""
+        intervals [76]
+            xmin = 3000.914
+            xmax = 3001.797
+            text = "béégà"
+        intervals [77]
+            xmin = 3001.797
+            xmax = 3012.821
+            text = ""
+        intervals [78]
+            xmin = 3012.821
+            xmax = 3013.651
+            text = "béégà"
+        intervals [79]
+            xmin = 3013.651
+            xmax = 3016.733
+            text = ""
+        intervals [80]
+            xmin = 3016.733
+            xmax = 3017.669
+            text = "béégà"
+        intervals [81]
+            xmin = 3017.669
+            xmax = 3019.669
+            text = ""
+        intervals [82]
+            xmin = 3019.669
+            xmax = 3020.369
+            text = "béégà"
+        intervals [83]
+            xmin = 3020.369
+            xmax = 3076.192
+            text = ""
+        intervals [84]
+            xmin = 3076.192
+            xmax = 3077.623
+            text = "háŋákínè"
+        intervals [85]
+            xmin = 3077.623
+            xmax = 3083.321
+            text = ""
+        intervals [86]
+            xmin = 3083.321
+            xmax = 3084.31
+            text = "háŋákínè"
+        intervals [87]
+            xmin = 3084.31
+            xmax = 3088.03
+            text = ""
+        intervals [88]
+            xmin = 3088.03
+            xmax = 3089.042
+            text = "háŋákínè"
+        intervals [89]
+            xmin = 3089.042
+            xmax = 3103.543
+            text = ""
+        intervals [90]
+            xmin = 3103.543
+            xmax = 3104.76
+            text = "háŋákínè"
+        intervals [91]
+            xmin = 3104.76
+            xmax = 3107.676
+            text = ""
+        intervals [92]
+            xmin = 3107.676
+            xmax = 3109.586
+            text = "háŋákínè"
+        intervals [93]
+            xmin = 3109.586
+            xmax = 3110.743
+            text = ""
+        intervals [94]
+            xmin = 3110.743
+            xmax = 3112.493
+            text = "háŋákínè"
+        intervals [95]
+            xmin = 3112.493
+            xmax = 3133.729
+            text = ""
+        intervals [96]
+            xmin = 3133.729
+            xmax = 3134.49
+            text = "húdzáyí"
+        intervals [97]
+            xmin = 3134.49
+            xmax = 3134.969
+            text = ""
+        intervals [98]
+            xmin = 3134.969
+            xmax = 3135.692
+            text = "húdzáyí"
+        intervals [99]
+            xmin = 3135.692
+            xmax = 3135.89
+            text = ""
+        intervals [100]
+            xmin = 3135.89
+            xmax = 3136.598
+            text = "húdzáyí"
+        intervals [101]
+            xmin = 3136.598
+            xmax = 3137.29
+            text = ""
+        intervals [102]
+            xmin = 3137.29
+            xmax = 3138.013
+            text = "húdzáyí"
+        intervals [103]
+            xmin = 3138.013
+            xmax = 3146.086
+            text = ""
+        intervals [104]
+            xmin = 3146.086
+            xmax = 3146.824
+            text = "húdzáyí"
+        intervals [105]
+            xmin = 3146.824
+            xmax = 3154.403
+            text = ""
+        intervals [106]
+            xmin = 3154.403
+            xmax = 3155.202
+            text = "húdzáyí"
+        intervals [107]
+            xmin = 3155.202
+            xmax = 3191.576
+            text = ""
+        intervals [108]
+            xmin = 3191.576
+            xmax = 3192.786
+            text = "àrìmàndá"
+        intervals [109]
+            xmin = 3192.786
+            xmax = 3203.392
+            text = ""
+        intervals [110]
+            xmin = 3203.392
+            xmax = 3204.397
+            text = "àrìmàndá"
+        intervals [111]
+            xmin = 3204.397
+            xmax = 3205.127
+            text = ""
+        intervals [112]
+            xmin = 3205.127
+            xmax = 3205.911
+            text = "àrìmàndá"
+        intervals [113]
+            xmin = 3205.911
+            xmax = 3206.504
+            text = ""
+        intervals [114]
+            xmin = 3206.504
+            xmax = 3207.372
+            text = "àrìmàndá"
+        intervals [115]
+            xmin = 3207.372
+            xmax = 3210.83
+            text = ""
+        intervals [116]
+            xmin = 3210.83
+            xmax = 3211.849
+            text = "àrìmàndá"
+        intervals [117]
+            xmin = 3211.849
+            xmax = 3215.426
+            text = ""
+        intervals [118]
+            xmin = 3215.426
+            xmax = 3216.446
+            text = "àrìmàndá"
+        intervals [119]
+            xmin = 3216.446
+            xmax = 3218.804
+            text = ""
+        intervals [120]
+            xmin = 3218.804
+            xmax = 3219.779
+            text = "àrìmàndá"
+        intervals [121]
+            xmin = 3219.779
+            xmax = 3220.023
+            text = ""
+        intervals [122]
+            xmin = 3220.023
+            xmax = 3221.469
+            text = "àrìmàndá"
+        intervals [123]
+            xmin = 3221.469
+            xmax = 3255.194
+            text = ""
+        intervals [124]
+            xmin = 3255.194
+            xmax = 3255.735
+            text = "qosa"
+        intervals [125]
+            xmin = 3255.735
+            xmax = 3255.757
+            text = ""
+        intervals [126]
+            xmin = 3255.757
+            xmax = 3256.298
+            text = "qosa"
+        intervals [127]
+            xmin = 3256.298
+            xmax = 3256.511
+            text = ""
+        intervals [128]
+            xmin = 3256.511
+            xmax = 3257.256
+            text = "qosa"
+        intervals [129]
+            xmin = 3257.256
+            xmax = 3259.133
+            text = ""
+        intervals [130]
+            xmin = 3259.133
+            xmax = 3259.764
+            text = "qosa"
+        intervals [131]
+            xmin = 3259.764
+            xmax = 3274.116
+            text = ""
+        intervals [132]
+            xmin = 3274.116
+            xmax = 3275.075
+            text = "qosa"
+        intervals [133]
+            xmin = 3275.075
+            xmax = 3861.027
+            text = ""
+        intervals [134]
+            xmin = 3861.027
+            xmax = 3862.717
+            text = "ǹdàhé húbéré"
+        intervals [135]
+            xmin = 3862.717
+            xmax = 3863.538
+            text = ""
+        intervals [136]
+            xmin = 3863.538
+            xmax = 3865.015
+            text = "ǹdàhé húbéré"
+        intervals [137]
+            xmin = 3865.015
+            xmax = 3930.07
+            text = ""
+        intervals [138]
+            xmin = 3930.07
+            xmax = 3930.648
+            text = "qosa"
+        intervals [139]
+            xmin = 3930.648
+            xmax = 3931.181
+            text = ""
+        intervals [140]
+            xmin = 3931.181
+            xmax = 3931.85
+            text = "qosa"
+        intervals [141]
+            xmin = 3931.85
+            xmax = 3973.253
+            text = ""
+        intervals [142]
+            xmin = 3973.253
+            xmax = 3973.983
+            text = "qosa"
+        intervals [143]
+            xmin = 3973.983
+            xmax = 3973.999
+            text = ""
+        intervals [144]
+            xmin = 3973.999
+            xmax = 3974.531
+            text = "qosa"
+        intervals [145]
+            xmin = 3974.531
+            xmax = 3974.653
+            text = ""
+        intervals [146]
+            xmin = 3974.653
+            xmax = 3975.277
+            text = "qosa"
+        intervals [147]
+            xmin = 3975.277
+            xmax = 3996.005
+            text = ""
+        intervals [148]
+            xmin = 3996.005
+            xmax = 3996.706
+            text = "qosa"
+        intervals [149]
+            xmin = 3996.706
+            xmax = 3996.721
+            text = ""
+        intervals [150]
+            xmin = 3996.721
+            xmax = 3997.695
+            text = "qosa"
+        intervals [151]
+            xmin = 3997.695
+            xmax = 4068.845
+            text = ""
+        intervals [152]
+            xmin = 4068.845
+            xmax = 4069.88
+            text = "kàyándà"
+        intervals [153]
+            xmin = 4069.88
+            xmax = 4074.156
+            text = ""
+        intervals [154]
+            xmin = 4074.156
+            xmax = 4075.009
+            text = "kàyándà"
+        intervals [155]
+            xmin = 4075.009
+            xmax = 4078.737
+            text = ""
+        intervals [156]
+            xmin = 4078.737
+            xmax = 4079.711
+            text = "kàyándà"
+        intervals [157]
+            xmin = 4079.711
+            xmax = 4084.597
+            text = ""
+        intervals [158]
+            xmin = 4084.597
+            xmax = 4085.753
+            text = "kàyándà"
+        intervals [159]
+            xmin = 4085.753
+            xmax = 4089.071
+            text = ""
+        intervals [160]
+            xmin = 4089.071
+            xmax = 4090.091
+            text = "kàyándà"
+        intervals [161]
+            xmin = 4090.091
+            xmax = 4120.968
+            text = ""
+        intervals [162]
+            xmin = 4120.968
+            xmax = 4121.683
+            text = "aitu"
+        intervals [163]
+            xmin = 4121.683
+            xmax = 4122.444
+            text = ""
+        intervals [164]
+            xmin = 4122.444
+            xmax = 4123.129
+            text = "aitu"
+        intervals [165]
+            xmin = 4123.129
+            xmax = 4126.158
+            text = ""
+        intervals [166]
+            xmin = 4126.158
+            xmax = 4126.873
+            text = "aitu"
+        intervals [167]
+            xmin = 4126.873
+            xmax = 4134.574
+            text = ""
+        intervals [168]
+            xmin = 4134.574
+            xmax = 4135.335
+            text = "aitu"
+        intervals [169]
+            xmin = 4135.335
+            xmax = 4432.836
+            text = ""
+    item[4]:
+        class = "IntervalTier"
+        name = "Original Transcription (Yonah Ndege)"
+        xmin = 0.0
+        xmax = 4432.836
+        intervals: size = 169
+        intervals [1]
+            xmin = 0.0
+            xmax = 2335.654
+            text = ""
+        intervals [2]
+            xmin = 2335.654
+            xmax = 2336.431
+            text = "haota"
+        intervals [3]
+            xmin = 2336.431
+            xmax = 2340.856
+            text = ""
+        intervals [4]
+            xmin = 2340.856
+            xmax = 2341.586
+            text = "haota"
+        intervals [5]
+            xmin = 2341.586
+            xmax = 2350.406
+            text = ""
+        intervals [6]
+            xmin = 2350.406
+            xmax = 2351.338
+            text = "haota"
+        intervals [7]
+            xmin = 2351.338
+            xmax = 2352.508
+            text = ""
+        intervals [8]
+            xmin = 2352.508
+            xmax = 2353.231
+            text = "haota"
+        intervals [9]
+            xmin = 2353.231
+            xmax = 2354.783
+            text = ""
+        intervals [10]
+            xmin = 2354.783
+            xmax = 2355.445
+            text = "haota"
+        intervals [11]
+            xmin = 2355.445
+            xmax = 2376.94
+            text = ""
+        intervals [12]
+            xmin = 2376.94
+            xmax = 2378.135
+            text = "kuhaeta"
+        intervals [13]
+            xmin = 2378.135
+            xmax = 2379.162
+            text = ""
+        intervals [14]
+            xmin = 2379.162
+            xmax = 2379.984
+            text = "kuhaeta"
+        intervals [15]
+            xmin = 2379.984
+            xmax = 2381.947
+            text = ""
+        intervals [16]
+            xmin = 2381.947
+            xmax = 2382.944
+            text = "kuhaeta"
+        intervals [17]
+            xmin = 2382.944
+            xmax = 2385.939
+            text = ""
+        intervals [18]
+            xmin = 2385.939
+            xmax = 2386.822
+            text = "kuhaeta"
+        intervals [19]
+            xmin = 2386.822
+            xmax = 2405.971
+            text = ""
+        intervals [20]
+            xmin = 2405.971
+            xmax = 2407.402
+            text = "ndahang’utu ng’weka"
+        intervals [21]
+            xmin = 2407.402
+            xmax = 2408.224
+            text = ""
+        intervals [22]
+            xmin = 2408.224
+            xmax = 2409.882
+            text = "ndahang’utu ng’weka"
+        intervals [23]
+            xmin = 2409.882
+            xmax = 2410.025
+            text = ""
+        intervals [24]
+            xmin = 2410.025
+            xmax = 2411.181
+            text = "ndahang’utu ng’weka"
+        intervals [25]
+            xmin = 2411.181
+            xmax = 2411.486
+            text = ""
+        intervals [26]
+            xmin = 2411.486
+            xmax = 2413.183
+            text = "ndahang’utu ng’weka"
+        intervals [27]
+            xmin = 2413.183
+            xmax = 2416.611
+            text = ""
+        intervals [28]
+            xmin = 2416.611
+            xmax = 2418.963
+            text = "ndahang’utu ng’weka"
+        intervals [29]
+            xmin = 2418.963
+            xmax = 2419.64
+            text = ""
+        intervals [30]
+            xmin = 2419.64
+            xmax = 2421.337
+            text = "ndahang’utu ng’weka"
+        intervals [31]
+            xmin = 2421.337
+            xmax = 2441.439
+            text = ""
+        intervals [32]
+            xmin = 2441.439
+            xmax = 2443.144
+            text = "ndahang’utu ng’weka"
+        intervals [33]
+            xmin = 2443.144
+            xmax = 2486.091
+            text = ""
+        intervals [34]
+            xmin = 2486.091
+            xmax = 2487.757
+            text = "ndahe hauta"
+        intervals [35]
+            xmin = 2487.757
+            xmax = 2488.868
+            text = ""
+        intervals [36]
+            xmin = 2488.868
+            xmax = 2490.466
+            text = "ndahe hauta"
+        intervals [37]
+            xmin = 2490.466
+            xmax = 2490.679
+            text = ""
+        intervals [38]
+            xmin = 2490.679
+            xmax = 2491.752
+            text = "ndahe hauta"
+        intervals [39]
+            xmin = 2491.752
+            xmax = 2597.123
+            text = ""
+        intervals [40]
+            xmin = 2597.123
+            xmax = 2598.638
+            text = "ndahe hauta"
+        intervals [41]
+            xmin = 2598.638
+            xmax = 2600.411
+            text = ""
+        intervals [42]
+            xmin = 2600.411
+            xmax = 2601.902
+            text = "ndahe hauta"
+        intervals [43]
+            xmin = 2601.902
+            xmax = 2646.097
+            text = ""
+        intervals [44]
+            xmin = 2646.097
+            xmax = 2647.33
+            text = "ndahe roryanga"
+        intervals [45]
+            xmin = 2647.33
+            xmax = 2647.444
+            text = ""
+        intervals [46]
+            xmin = 2647.444
+            xmax = 2649.385
+            text = "ndahe roryanga"
+        intervals [47]
+            xmin = 2649.385
+            xmax = 2649.598
+            text = ""
+        intervals [48]
+            xmin = 2649.598
+            xmax = 2651.112
+            text = "ndahe roryanga"
+        intervals [49]
+            xmin = 2651.112
+            xmax = 2653.581
+            text = ""
+        intervals [50]
+            xmin = 2653.581
+            xmax = 2655.803
+            text = "ndahe roryanga"
+        intervals [51]
+            xmin = 2655.803
+            xmax = 2913.187
+            text = ""
+        intervals [52]
+            xmin = 2913.187
+            xmax = 2915.249
+            text = "dang’weka / dang’wega"
+        intervals [53]
+            xmin = 2915.249
+            xmax = 2916.101
+            text = ""
+        intervals [54]
+            xmin = 2916.101
+            xmax = 2919.175
+            text = "dang’weka / dang’wega"
+        intervals [55]
+            xmin = 2919.175
+            xmax = 2919.759
+            text = ""
+        intervals [56]
+            xmin = 2919.759
+            xmax = 2920.885
+            text = "dang’weka / dang’wega"
+        intervals [57]
+            xmin = 2920.885
+            xmax = 2931.886
+            text = ""
+        intervals [58]
+            xmin = 2931.886
+            xmax = 2932.677
+            text = "dang’weka / dang’wega"
+        intervals [59]
+            xmin = 2932.677
+            xmax = 2932.738
+            text = ""
+        intervals [60]
+            xmin = 2932.738
+            xmax = 2934.123
+            text = "dang’weka / dang’wega"
+        intervals [61]
+            xmin = 2934.123
+            xmax = 2935.028
+            text = ""
+        intervals [62]
+            xmin = 2935.028
+            xmax = 2936.36
+            text = "dang’weka / dang’wega"
+        intervals [63]
+            xmin = 2936.36
+            xmax = 2946.326
+            text = ""
+        intervals [64]
+            xmin = 2946.326
+            xmax = 2947.148
+            text = "dang’weka / dang’wega"
+        intervals [65]
+            xmin = 2947.148
+            xmax = 2947.201
+            text = ""
+        intervals [66]
+            xmin = 2947.201
+            xmax = 2947.893
+            text = "dang’weka / dang’wega"
+        intervals [67]
+            xmin = 2947.893
+            xmax = 2952.49
+            text = ""
+        intervals [68]
+            xmin = 2952.49
+            xmax = 2953.616
+            text = "dang’weka / dang’wega"
+        intervals [69]
+            xmin = 2953.616
+            xmax = 2960.731
+            text = ""
+        intervals [70]
+            xmin = 2960.731
+            xmax = 2961.728
+            text = "dang’weka / dang’wega"
+        intervals [71]
+            xmin = 2961.728
+            xmax = 2963.387
+            text = ""
+        intervals [72]
+            xmin = 2963.387
+            xmax = 2964.042
+            text = "dang’weka / dang’wega"
+        intervals [73]
+            xmin = 2964.042
+            xmax = 2995.374
+            text = ""
+        intervals [74]
+            xmin = 2995.374
+            xmax = 2996.211
+            text = "beeka / beega"
+        intervals [75]
+            xmin = 2996.211
+            xmax = 3000.914
+            text = ""
+        intervals [76]
+            xmin = 3000.914
+            xmax = 3001.797
+            text = "beeka / beega"
+        intervals [77]
+            xmin = 3001.797
+            xmax = 3012.821
+            text = ""
+        intervals [78]
+            xmin = 3012.821
+            xmax = 3013.651
+            text = "beeka / beega"
+        intervals [79]
+            xmin = 3013.651
+            xmax = 3016.733
+            text = ""
+        intervals [80]
+            xmin = 3016.733
+            xmax = 3017.669
+            text = "beeka / beega"
+        intervals [81]
+            xmin = 3017.669
+            xmax = 3019.669
+            text = ""
+        intervals [82]
+            xmin = 3019.669
+            xmax = 3020.369
+            text = "beeka / beega"
+        intervals [83]
+            xmin = 3020.369
+            xmax = 3076.192
+            text = ""
+        intervals [84]
+            xmin = 3076.192
+            xmax = 3077.623
+            text = "ng’agine"
+        intervals [85]
+            xmin = 3077.623
+            xmax = 3083.321
+            text = ""
+        intervals [86]
+            xmin = 3083.321
+            xmax = 3084.31
+            text = "ng’agine"
+        intervals [87]
+            xmin = 3084.31
+            xmax = 3088.03
+            text = ""
+        intervals [88]
+            xmin = 3088.03
+            xmax = 3089.042
+            text = "ng’agine"
+        intervals [89]
+            xmin = 3089.042
+            xmax = 3103.543
+            text = ""
+        intervals [90]
+            xmin = 3103.543
+            xmax = 3104.76
+            text = "ng’agine"
+        intervals [91]
+            xmin = 3104.76
+            xmax = 3107.676
+            text = ""
+        intervals [92]
+            xmin = 3107.676
+            xmax = 3109.586
+            text = "ng’agine"
+        intervals [93]
+            xmin = 3109.586
+            xmax = 3110.743
+            text = ""
+        intervals [94]
+            xmin = 3110.743
+            xmax = 3112.493
+            text = "ng’agine"
+        intervals [95]
+            xmin = 3112.493
+            xmax = 3133.729
+            text = ""
+        intervals [96]
+            xmin = 3133.729
+            xmax = 3134.49
+            text = "utai"
+        intervals [97]
+            xmin = 3134.49
+            xmax = 3134.969
+            text = ""
+        intervals [98]
+            xmin = 3134.969
+            xmax = 3135.692
+            text = "utai"
+        intervals [99]
+            xmin = 3135.692
+            xmax = 3135.89
+            text = ""
+        intervals [100]
+            xmin = 3135.89
+            xmax = 3136.598
+            text = "utai"
+        intervals [101]
+            xmin = 3136.598
+            xmax = 3137.29
+            text = ""
+        intervals [102]
+            xmin = 3137.29
+            xmax = 3138.013
+            text = "v"
+        intervals [103]
+            xmin = 3138.013
+            xmax = 3146.086
+            text = ""
+        intervals [104]
+            xmin = 3146.086
+            xmax = 3146.824
+            text = "utai"
+        intervals [105]
+            xmin = 3146.824
+            xmax = 3154.403
+            text = ""
+        intervals [106]
+            xmin = 3154.403
+            xmax = 3155.202
+            text = "utai"
+        intervals [107]
+            xmin = 3155.202
+            xmax = 3191.576
+            text = ""
+        intervals [108]
+            xmin = 3191.576
+            xmax = 3192.786
+            text = "arimanda"
+        intervals [109]
+            xmin = 3192.786
+            xmax = 3203.392
+            text = ""
+        intervals [110]
+            xmin = 3203.392
+            xmax = 3204.397
+            text = "arimanda"
+        intervals [111]
+            xmin = 3204.397
+            xmax = 3205.127
+            text = ""
+        intervals [112]
+            xmin = 3205.127
+            xmax = 3205.911
+            text = "arimanda"
+        intervals [113]
+            xmin = 3205.911
+            xmax = 3206.504
+            text = ""
+        intervals [114]
+            xmin = 3206.504
+            xmax = 3207.372
+            text = "arimanda"
+        intervals [115]
+            xmin = 3207.372
+            xmax = 3210.83
+            text = ""
+        intervals [116]
+            xmin = 3210.83
+            xmax = 3211.849
+            text = "arimanda"
+        intervals [117]
+            xmin = 3211.849
+            xmax = 3215.426
+            text = ""
+        intervals [118]
+            xmin = 3215.426
+            xmax = 3216.446
+            text = "arimanda"
+        intervals [119]
+            xmin = 3216.446
+            xmax = 3218.804
+            text = ""
+        intervals [120]
+            xmin = 3218.804
+            xmax = 3219.779
+            text = "arimanda"
+        intervals [121]
+            xmin = 3219.779
+            xmax = 3220.023
+            text = ""
+        intervals [122]
+            xmin = 3220.023
+            xmax = 3221.469
+            text = "arimanda"
+        intervals [123]
+            xmin = 3221.469
+            xmax = 3255.194
+            text = ""
+        intervals [124]
+            xmin = 3255.194
+            xmax = 3255.735
+            text = ""
+        intervals [125]
+            xmin = 3255.735
+            xmax = 3255.757
+            text = ""
+        intervals [126]
+            xmin = 3255.757
+            xmax = 3256.298
+            text = ""
+        intervals [127]
+            xmin = 3256.298
+            xmax = 3256.511
+            text = ""
+        intervals [128]
+            xmin = 3256.511
+            xmax = 3257.256
+            text = ""
+        intervals [129]
+            xmin = 3257.256
+            xmax = 3259.133
+            text = ""
+        intervals [130]
+            xmin = 3259.133
+            xmax = 3259.764
+            text = ""
+        intervals [131]
+            xmin = 3259.764
+            xmax = 3274.116
+            text = ""
+        intervals [132]
+            xmin = 3274.116
+            xmax = 3275.075
+            text = ""
+        intervals [133]
+            xmin = 3275.075
+            xmax = 3861.027
+            text = ""
+        intervals [134]
+            xmin = 3861.027
+            xmax = 3862.717
+            text = "ndahe hubere"
+        intervals [135]
+            xmin = 3862.717
+            xmax = 3863.538
+            text = ""
+        intervals [136]
+            xmin = 3863.538
+            xmax = 3865.015
+            text = "ndahe hubere"
+        intervals [137]
+            xmin = 3865.015
+            xmax = 3930.07
+            text = ""
+        intervals [138]
+            xmin = 3930.07
+            xmax = 3930.648
+            text = ""
+        intervals [139]
+            xmin = 3930.648
+            xmax = 3931.181
+            text = ""
+        intervals [140]
+            xmin = 3931.181
+            xmax = 3931.85
+            text = ""
+        intervals [141]
+            xmin = 3931.85
+            xmax = 3973.253
+            text = ""
+        intervals [142]
+            xmin = 3973.253
+            xmax = 3973.983
+            text = ""
+        intervals [143]
+            xmin = 3973.983
+            xmax = 3973.999
+            text = ""
+        intervals [144]
+            xmin = 3973.999
+            xmax = 3974.531
+            text = ""
+        intervals [145]
+            xmin = 3974.531
+            xmax = 3974.653
+            text = ""
+        intervals [146]
+            xmin = 3974.653
+            xmax = 3975.277
+            text = ""
+        intervals [147]
+            xmin = 3975.277
+            xmax = 3996.005
+            text = ""
+        intervals [148]
+            xmin = 3996.005
+            xmax = 3996.706
+            text = ""
+        intervals [149]
+            xmin = 3996.706
+            xmax = 3996.721
+            text = ""
+        intervals [150]
+            xmin = 3996.721
+            xmax = 3997.695
+            text = ""
+        intervals [151]
+            xmin = 3997.695
+            xmax = 4068.845
+            text = ""
+        intervals [152]
+            xmin = 4068.845
+            xmax = 4069.88
+            text = "kayanda"
+        intervals [153]
+            xmin = 4069.88
+            xmax = 4074.156
+            text = ""
+        intervals [154]
+            xmin = 4074.156
+            xmax = 4075.009
+            text = "kayanda"
+        intervals [155]
+            xmin = 4075.009
+            xmax = 4078.737
+            text = ""
+        intervals [156]
+            xmin = 4078.737
+            xmax = 4079.711
+            text = "kayanda"
+        intervals [157]
+            xmin = 4079.711
+            xmax = 4084.597
+            text = ""
+        intervals [158]
+            xmin = 4084.597
+            xmax = 4085.753
+            text = "kayanda"
+        intervals [159]
+            xmin = 4085.753
+            xmax = 4089.071
+            text = ""
+        intervals [160]
+            xmin = 4089.071
+            xmax = 4090.091
+            text = "kayanda"
+        intervals [161]
+            xmin = 4090.091
+            xmax = 4120.968
+            text = ""
+        intervals [162]
+            xmin = 4120.968
+            xmax = 4121.683
+            text = "aitoa"
+        intervals [163]
+            xmin = 4121.683
+            xmax = 4122.444
+            text = ""
+        intervals [164]
+            xmin = 4122.444
+            xmax = 4123.129
+            text = "aitoa"
+        intervals [165]
+            xmin = 4123.129
+            xmax = 4126.158
+            text = ""
+        intervals [166]
+            xmin = 4126.158
+            xmax = 4126.873
+            text = "aitoa"
+        intervals [167]
+            xmin = 4126.873
+            xmax = 4134.574
+            text = ""
+        intervals [168]
+            xmin = 4134.574
+            xmax = 4135.335
+            text = "aitoa"
+        intervals [169]
+            xmin = 4135.335
+            xmax = 4432.836
+            text = ""
+    item[5]:
+        class = "IntervalTier"
+        name = "Translation"
+        xmin = 0.0
+        xmax = 4432.836
+        intervals: size = 169
+        intervals [1]
+            xmin = 0.0
+            xmax = 2335.654
+            text = ""
+        intervals [2]
+            xmin = 2335.654
+            xmax = 2336.431
+            text = "we"
+        intervals [3]
+            xmin = 2336.431
+            xmax = 2340.856
+            text = ""
+        intervals [4]
+            xmin = 2340.856
+            xmax = 2341.586
+            text = "we"
+        intervals [5]
+            xmin = 2341.586
+            xmax = 2350.406
+            text = ""
+        intervals [6]
+            xmin = 2350.406
+            xmax = 2351.338
+            text = "we"
+        intervals [7]
+            xmin = 2351.338
+            xmax = 2352.508
+            text = ""
+        intervals [8]
+            xmin = 2352.508
+            xmax = 2353.231
+            text = "we"
+        intervals [9]
+            xmin = 2353.231
+            xmax = 2354.783
+            text = ""
+        intervals [10]
+            xmin = 2354.783
+            xmax = 2355.445
+            text = "we"
+        intervals [11]
+            xmin = 2355.445
+            xmax = 2376.94
+            text = ""
+        intervals [12]
+            xmin = 2376.94
+            xmax = 2378.135
+            text = "I"
+        intervals [13]
+            xmin = 2378.135
+            xmax = 2379.162
+            text = ""
+        intervals [14]
+            xmin = 2379.162
+            xmax = 2379.984
+            text = "I"
+        intervals [15]
+            xmin = 2379.984
+            xmax = 2381.947
+            text = ""
+        intervals [16]
+            xmin = 2381.947
+            xmax = 2382.944
+            text = "I"
+        intervals [17]
+            xmin = 2382.944
+            xmax = 2385.939
+            text = ""
+        intervals [18]
+            xmin = 2385.939
+            xmax = 2386.822
+            text = "I"
+        intervals [19]
+            xmin = 2386.822
+            xmax = 2405.971
+            text = ""
+        intervals [20]
+            xmin = 2405.971
+            xmax = 2407.402
+            text = "you (SG)"
+        intervals [21]
+            xmin = 2407.402
+            xmax = 2408.224
+            text = ""
+        intervals [22]
+            xmin = 2408.224
+            xmax = 2409.882
+            text = "you (SG)"
+        intervals [23]
+            xmin = 2409.882
+            xmax = 2410.025
+            text = ""
+        intervals [24]
+            xmin = 2410.025
+            xmax = 2411.181
+            text = "you (SG)"
+        intervals [25]
+            xmin = 2411.181
+            xmax = 2411.486
+            text = ""
+        intervals [26]
+            xmin = 2411.486
+            xmax = 2413.183
+            text = "you (SG)"
+        intervals [27]
+            xmin = 2413.183
+            xmax = 2416.611
+            text = ""
+        intervals [28]
+            xmin = 2416.611
+            xmax = 2418.963
+            text = "you (SG)"
+        intervals [29]
+            xmin = 2418.963
+            xmax = 2419.64
+            text = ""
+        intervals [30]
+            xmin = 2419.64
+            xmax = 2421.337
+            text = "you (SG)"
+        intervals [31]
+            xmin = 2421.337
+            xmax = 2441.439
+            text = ""
+        intervals [32]
+            xmin = 2441.439
+            xmax = 2443.144
+            text = "you (SG)"
+        intervals [33]
+            xmin = 2443.144
+            xmax = 2486.091
+            text = ""
+        intervals [34]
+            xmin = 2486.091
+            xmax = 2487.757
+            text = "eye"
+        intervals [35]
+            xmin = 2487.757
+            xmax = 2488.868
+            text = ""
+        intervals [36]
+            xmin = 2488.868
+            xmax = 2490.466
+            text = "eye"
+        intervals [37]
+            xmin = 2490.466
+            xmax = 2490.679
+            text = ""
+        intervals [38]
+            xmin = 2490.679
+            xmax = 2491.752
+            text = "eye"
+        intervals [39]
+            xmin = 2491.752
+            xmax = 2597.123
+            text = ""
+        intervals [40]
+            xmin = 2597.123
+            xmax = 2598.638
+            text = "eye"
+        intervals [41]
+            xmin = 2598.638
+            xmax = 2600.411
+            text = ""
+        intervals [42]
+            xmin = 2600.411
+            xmax = 2601.902
+            text = "eye"
+        intervals [43]
+            xmin = 2601.902
+            xmax = 2646.097
+            text = ""
+        intervals [44]
+            xmin = 2646.097
+            xmax = 2647.33
+            text = "name"
+        intervals [45]
+            xmin = 2647.33
+            xmax = 2647.444
+            text = ""
+        intervals [46]
+            xmin = 2647.444
+            xmax = 2649.385
+            text = "name"
+        intervals [47]
+            xmin = 2649.385
+            xmax = 2649.598
+            text = ""
+        intervals [48]
+            xmin = 2649.598
+            xmax = 2651.112
+            text = "name"
+        intervals [49]
+            xmin = 2651.112
+            xmax = 2653.581
+            text = ""
+        intervals [50]
+            xmin = 2653.581
+            xmax = 2655.803
+            text = "name"
+        intervals [51]
+            xmin = 2655.803
+            xmax = 2913.187
+            text = ""
+        intervals [52]
+            xmin = 2913.187
+            xmax = 2915.249
+            text = "blood"
+        intervals [53]
+            xmin = 2915.249
+            xmax = 2916.101
+            text = ""
+        intervals [54]
+            xmin = 2916.101
+            xmax = 2919.175
+            text = "blood"
+        intervals [55]
+            xmin = 2919.175
+            xmax = 2919.759
+            text = ""
+        intervals [56]
+            xmin = 2919.759
+            xmax = 2920.885
+            text = "blood"
+        intervals [57]
+            xmin = 2920.885
+            xmax = 2931.886
+            text = ""
+        intervals [58]
+            xmin = 2931.886
+            xmax = 2932.677
+            text = "blood"
+        intervals [59]
+            xmin = 2932.677
+            xmax = 2932.738
+            text = ""
+        intervals [60]
+            xmin = 2932.738
+            xmax = 2934.123
+            text = "blood"
+        intervals [61]
+            xmin = 2934.123
+            xmax = 2935.028
+            text = ""
+        intervals [62]
+            xmin = 2935.028
+            xmax = 2936.36
+            text = "blood"
+        intervals [63]
+            xmin = 2936.36
+            xmax = 2946.326
+            text = ""
+        intervals [64]
+            xmin = 2946.326
+            xmax = 2947.148
+            text = "blood"
+        intervals [65]
+            xmin = 2947.148
+            xmax = 2947.201
+            text = ""
+        intervals [66]
+            xmin = 2947.201
+            xmax = 2947.893
+            text = "blood"
+        intervals [67]
+            xmin = 2947.893
+            xmax = 2952.49
+            text = ""
+        intervals [68]
+            xmin = 2952.49
+            xmax = 2953.616
+            text = "blood"
+        intervals [69]
+            xmin = 2953.616
+            xmax = 2960.731
+            text = ""
+        intervals [70]
+            xmin = 2960.731
+            xmax = 2961.728
+            text = "blood"
+        intervals [71]
+            xmin = 2961.728
+            xmax = 2963.387
+            text = ""
+        intervals [72]
+            xmin = 2963.387
+            xmax = 2964.042
+            text = "blood"
+        intervals [73]
+            xmin = 2964.042
+            xmax = 2995.374
+            text = ""
+        intervals [74]
+            xmin = 2995.374
+            xmax = 2996.211
+            text = "water"
+        intervals [75]
+            xmin = 2996.211
+            xmax = 3000.914
+            text = ""
+        intervals [76]
+            xmin = 3000.914
+            xmax = 3001.797
+            text = "water"
+        intervals [77]
+            xmin = 3001.797
+            xmax = 3012.821
+            text = ""
+        intervals [78]
+            xmin = 3012.821
+            xmax = 3013.651
+            text = "water"
+        intervals [79]
+            xmin = 3013.651
+            xmax = 3016.733
+            text = ""
+        intervals [80]
+            xmin = 3016.733
+            xmax = 3017.669
+            text = "water"
+        intervals [81]
+            xmin = 3017.669
+            xmax = 3019.669
+            text = ""
+        intervals [82]
+            xmin = 3019.669
+            xmax = 3020.369
+            text = "water"
+        intervals [83]
+            xmin = 3020.369
+            xmax = 3076.192
+            text = ""
+        intervals [84]
+            xmin = 3076.192
+            xmax = 3077.623
+            text = "who"
+        intervals [85]
+            xmin = 3077.623
+            xmax = 3083.321
+            text = ""
+        intervals [86]
+            xmin = 3083.321
+            xmax = 3084.31
+            text = "who"
+        intervals [87]
+            xmin = 3084.31
+            xmax = 3088.03
+            text = ""
+        intervals [88]
+            xmin = 3088.03
+            xmax = 3089.042
+            text = "who"
+        intervals [89]
+            xmin = 3089.042
+            xmax = 3103.543
+            text = ""
+        intervals [90]
+            xmin = 3103.543
+            xmax = 3104.76
+            text = "who"
+        intervals [91]
+            xmin = 3104.76
+            xmax = 3107.676
+            text = ""
+        intervals [92]
+            xmin = 3107.676
+            xmax = 3109.586
+            text = "who"
+        intervals [93]
+            xmin = 3109.586
+            xmax = 3110.743
+            text = ""
+        intervals [94]
+            xmin = 3110.743
+            xmax = 3112.493
+            text = "who"
+        intervals [95]
+            xmin = 3112.493
+            xmax = 3133.729
+            text = ""
+        intervals [96]
+            xmin = 3133.729
+            xmax = 3134.49
+            text = "two"
+        intervals [97]
+            xmin = 3134.49
+            xmax = 3134.969
+            text = ""
+        intervals [98]
+            xmin = 3134.969
+            xmax = 3135.692
+            text = "two"
+        intervals [99]
+            xmin = 3135.692
+            xmax = 3135.89
+            text = ""
+        intervals [100]
+            xmin = 3135.89
+            xmax = 3136.598
+            text = "two"
+        intervals [101]
+            xmin = 3136.598
+            xmax = 3137.29
+            text = ""
+        intervals [102]
+            xmin = 3137.29
+            xmax = 3138.013
+            text = "two"
+        intervals [103]
+            xmin = 3138.013
+            xmax = 3146.086
+            text = ""
+        intervals [104]
+            xmin = 3146.086
+            xmax = 3146.824
+            text = "two"
+        intervals [105]
+            xmin = 3146.824
+            xmax = 3154.403
+            text = ""
+        intervals [106]
+            xmin = 3154.403
+            xmax = 3155.202
+            text = "two"
+        intervals [107]
+            xmin = 3155.202
+            xmax = 3191.576
+            text = ""
+        intervals [108]
+            xmin = 3191.576
+            xmax = 3192.786
+            text = "yellow"
+        intervals [109]
+            xmin = 3192.786
+            xmax = 3203.392
+            text = ""
+        intervals [110]
+            xmin = 3203.392
+            xmax = 3204.397
+            text = "yellow"
+        intervals [111]
+            xmin = 3204.397
+            xmax = 3205.127
+            text = ""
+        intervals [112]
+            xmin = 3205.127
+            xmax = 3205.911
+            text = "yellow"
+        intervals [113]
+            xmin = 3205.911
+            xmax = 3206.504
+            text = ""
+        intervals [114]
+            xmin = 3206.504
+            xmax = 3207.372
+            text = "yellow"
+        intervals [115]
+            xmin = 3207.372
+            xmax = 3210.83
+            text = ""
+        intervals [116]
+            xmin = 3210.83
+            xmax = 3211.849
+            text = "yellow"
+        intervals [117]
+            xmin = 3211.849
+            xmax = 3215.426
+            text = ""
+        intervals [118]
+            xmin = 3215.426
+            xmax = 3216.446
+            text = "yellow"
+        intervals [119]
+            xmin = 3216.446
+            xmax = 3218.804
+            text = ""
+        intervals [120]
+            xmin = 3218.804
+            xmax = 3219.779
+            text = "yellow"
+        intervals [121]
+            xmin = 3219.779
+            xmax = 3220.023
+            text = ""
+        intervals [122]
+            xmin = 3220.023
+            xmax = 3221.469
+            text = "yellow"
+        intervals [123]
+            xmin = 3221.469
+            xmax = 3255.194
+            text = ""
+        intervals [124]
+            xmin = 3255.194
+            xmax = 3255.735
+            text = "this"
+        intervals [125]
+            xmin = 3255.735
+            xmax = 3255.757
+            text = ""
+        intervals [126]
+            xmin = 3255.757
+            xmax = 3256.298
+            text = "this"
+        intervals [127]
+            xmin = 3256.298
+            xmax = 3256.511
+            text = ""
+        intervals [128]
+            xmin = 3256.511
+            xmax = 3257.256
+            text = "this"
+        intervals [129]
+            xmin = 3257.256
+            xmax = 3259.133
+            text = ""
+        intervals [130]
+            xmin = 3259.133
+            xmax = 3259.764
+            text = "this"
+        intervals [131]
+            xmin = 3259.764
+            xmax = 3274.116
+            text = ""
+        intervals [132]
+            xmin = 3274.116
+            xmax = 3275.075
+            text = "this"
+        intervals [133]
+            xmin = 3275.075
+            xmax = 3861.027
+            text = ""
+        intervals [134]
+            xmin = 3861.027
+            xmax = 3862.717
+            text = "what"
+        intervals [135]
+            xmin = 3862.717
+            xmax = 3863.538
+            text = ""
+        intervals [136]
+            xmin = 3863.538
+            xmax = 3865.015
+            text = "what"
+        intervals [137]
+            xmin = 3865.015
+            xmax = 3930.07
+            text = ""
+        intervals [138]
+            xmin = 3930.07
+            xmax = 3930.648
+            text = "this"
+        intervals [139]
+            xmin = 3930.648
+            xmax = 3931.181
+            text = ""
+        intervals [140]
+            xmin = 3931.181
+            xmax = 3931.85
+            text = "this"
+        intervals [141]
+            xmin = 3931.85
+            xmax = 3973.253
+            text = ""
+        intervals [142]
+            xmin = 3973.253
+            xmax = 3973.983
+            text = "this"
+        intervals [143]
+            xmin = 3973.983
+            xmax = 3973.999
+            text = ""
+        intervals [144]
+            xmin = 3973.999
+            xmax = 3974.531
+            text = "this"
+        intervals [145]
+            xmin = 3974.531
+            xmax = 3974.653
+            text = ""
+        intervals [146]
+            xmin = 3974.653
+            xmax = 3975.277
+            text = "this"
+        intervals [147]
+            xmin = 3975.277
+            xmax = 3996.005
+            text = ""
+        intervals [148]
+            xmin = 3996.005
+            xmax = 3996.706
+            text = "this"
+        intervals [149]
+            xmin = 3996.706
+            xmax = 3996.721
+            text = ""
+        intervals [150]
+            xmin = 3996.721
+            xmax = 3997.695
+            text = "this"
+        intervals [151]
+            xmin = 3997.695
+            xmax = 4068.845
+            text = ""
+        intervals [152]
+            xmin = 4068.845
+            xmax = 4069.88
+            text = "child"
+        intervals [153]
+            xmin = 4069.88
+            xmax = 4074.156
+            text = ""
+        intervals [154]
+            xmin = 4074.156
+            xmax = 4075.009
+            text = "child"
+        intervals [155]
+            xmin = 4075.009
+            xmax = 4078.737
+            text = ""
+        intervals [156]
+            xmin = 4078.737
+            xmax = 4079.711
+            text = "child"
+        intervals [157]
+            xmin = 4079.711
+            xmax = 4084.597
+            text = ""
+        intervals [158]
+            xmin = 4084.597
+            xmax = 4085.753
+            text = "child"
+        intervals [159]
+            xmin = 4085.753
+            xmax = 4089.071
+            text = ""
+        intervals [160]
+            xmin = 4089.071
+            xmax = 4090.091
+            text = "child"
+        intervals [161]
+            xmin = 4090.091
+            xmax = 4120.968
+            text = ""
+        intervals [162]
+            xmin = 4120.968
+            xmax = 4121.683
+            text = "children"
+        intervals [163]
+            xmin = 4121.683
+            xmax = 4122.444
+            text = ""
+        intervals [164]
+            xmin = 4122.444
+            xmax = 4123.129
+            text = "children"
+        intervals [165]
+            xmin = 4123.129
+            xmax = 4126.158
+            text = ""
+        intervals [166]
+            xmin = 4126.158
+            xmax = 4126.873
+            text = "children"
+        intervals [167]
+            xmin = 4126.873
+            xmax = 4134.574
+            text = ""
+        intervals [168]
+            xmin = 4134.574
+            xmax = 4135.335
+            text = "children"
+        intervals [169]
+            xmin = 4135.335
+            xmax = 4432.836
+            text = ""

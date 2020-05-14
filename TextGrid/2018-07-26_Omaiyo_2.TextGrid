@@ -1,0 +1,578 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1096.057
+tiers? <exists>
+size = 5
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "REF-ID"
+        xmin = 0.0
+        xmax = 1096.057
+        intervals: size = 27
+        intervals [1]
+            xmin = 0.0
+            xmax = 472.896
+            text = ""
+        intervals [2]
+            xmin = 472.896
+            xmax = 474.249
+            text = "2018-07-26_Omaiyo_1_01"
+        intervals [3]
+            xmin = 474.249
+            xmax = 477.779
+            text = ""
+        intervals [4]
+            xmin = 477.779
+            xmax = 478.839
+            text = "2018-07-26_Omaiyo_1_02"
+        intervals [5]
+            xmin = 478.839
+            xmax = 497.307
+            text = ""
+        intervals [6]
+            xmin = 497.307
+            xmax = 498.331
+            text = "2018-07-26_Omaiyo_1_03"
+        intervals [7]
+            xmin = 498.331
+            xmax = 508.771
+            text = ""
+        intervals [8]
+            xmin = 508.771
+            xmax = 509.831
+            text = "2018-07-26_Omaiyo_1_04"
+        intervals [9]
+            xmin = 509.831
+            xmax = 603.343
+            text = ""
+        intervals [10]
+            xmin = 603.343
+            xmax = 604.677
+            text = "2018-07-26_Omaiyo_1_05"
+        intervals [11]
+            xmin = 604.677
+            xmax = 606.834
+            text = ""
+        intervals [12]
+            xmin = 606.834
+            xmax = 607.602
+            text = "2018-07-26_Omaiyo_1_06"
+        intervals [13]
+            xmin = 607.602
+            xmax = 611.057
+            text = ""
+        intervals [14]
+            xmin = 611.057
+            xmax = 612.099
+            text = "2018-07-26_Omaiyo_1_07"
+        intervals [15]
+            xmin = 612.099
+            xmax = 716.885
+            text = ""
+        intervals [16]
+            xmin = 716.885
+            xmax = 718.0
+            text = "2018-07-26_Omaiyo_1_08"
+        intervals [17]
+            xmin = 718.0
+            xmax = 765.236
+            text = ""
+        intervals [18]
+            xmin = 765.236
+            xmax = 766.588
+            text = "2018-07-26_Omaiyo_1_09"
+        intervals [19]
+            xmin = 766.588
+            xmax = 770.47
+            text = ""
+        intervals [20]
+            xmin = 770.47
+            xmax = 771.53
+            text = "2018-07-26_Omaiyo_1_10"
+        intervals [21]
+            xmin = 771.53
+            xmax = 853.037
+            text = ""
+        intervals [22]
+            xmin = 853.037
+            xmax = 853.75
+            text = "2018-07-26_Omaiyo_1_11"
+        intervals [23]
+            xmin = 853.75
+            xmax = 855.449
+            text = ""
+        intervals [24]
+            xmin = 855.449
+            xmax = 856.51
+            text = "2018-07-26_Omaiyo_1_12"
+        intervals [25]
+            xmin = 856.51
+            xmax = 1030.377
+            text = ""
+        intervals [26]
+            xmin = 1030.377
+            xmax = 1031.546
+            text = "2018-07-26_Omaiyo_1_13"
+        intervals [27]
+            xmin = 1031.546
+            xmax = 1096.057
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "Phonetic Transcription"
+        xmin = 0.0
+        xmax = 1096.057
+        intervals: size = 27
+        intervals [1]
+            xmin = 0.0
+            xmax = 472.896
+            text = ""
+        intervals [2]
+            xmin = 472.896
+            xmax = 474.249
+            text = "kùéʃèɲà"
+        intervals [3]
+            xmin = 474.249
+            xmax = 477.779
+            text = ""
+        intervals [4]
+            xmin = 477.779
+            xmax = 478.839
+            text = "ìːmɔ́"
+        intervals [5]
+            xmin = 478.839
+            xmax = 497.307
+            text = ""
+        intervals [6]
+            xmin = 497.307
+            xmax = 498.331
+            text = "káíɲâgè"
+        intervals [7]
+            xmin = 498.331
+            xmax = 508.771
+            text = ""
+        intervals [8]
+            xmin = 508.771
+            xmax = 509.831
+            text = " ̀ǹgàgɛ́ːs"
+        intervals [9]
+            xmin = 509.831
+            xmax = 603.343
+            text = ""
+        intervals [10]
+            xmin = 603.343
+            xmax = 604.677
+            text = "ǹgàlèʃú"
+        intervals [11]
+            xmin = 604.677
+            xmax = 606.834
+            text = ""
+        intervals [12]
+            xmin = 606.834
+            xmax = 607.602
+            text = "ǹgàlèʃú"
+        intervals [13]
+            xmin = 607.602
+            xmax = 611.057
+            text = ""
+        intervals [14]
+            xmin = 611.057
+            xmax = 612.099
+            text = "ǹgàlèʃú"
+        intervals [15]
+            xmin = 612.099
+            xmax = 716.885
+            text = ""
+        intervals [16]
+            xmin = 716.885
+            xmax = 718.0
+            text = "ǹgàlèʃú"
+        intervals [17]
+            xmin = 718.0
+            xmax = 765.236
+            text = ""
+        intervals [18]
+            xmin = 765.236
+            xmax = 766.588
+            text = "ǹgágèlètà"
+        intervals [19]
+            xmin = 766.588
+            xmax = 770.47
+            text = ""
+        intervals [20]
+            xmin = 770.47
+            xmax = 771.53
+            text = "ǹgágèlètà"
+        intervals [21]
+            xmin = 771.53
+            xmax = 853.037
+            text = ""
+        intervals [22]
+            xmin = 853.037
+            xmax = 853.75
+            text = "ǹgàléʃú"
+        intervals [23]
+            xmin = 853.75
+            xmax = 855.449
+            text = ""
+        intervals [24]
+            xmin = 855.449
+            xmax = 856.51
+            text = "ǹgàléʃú"
+        intervals [25]
+            xmin = 856.51
+            xmax = 1030.377
+            text = ""
+        intervals [26]
+            xmin = 1030.377
+            xmax = 1031.546
+            text = "gàìgérégènì"
+        intervals [27]
+            xmin = 1031.546
+            xmax = 1096.057
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "Original Transcription (Richard Griscom)"
+        xmin = 0.0
+        xmax = 1096.057
+        intervals: size = 27
+        intervals [1]
+            xmin = 0.0
+            xmax = 472.896
+            text = ""
+        intervals [2]
+            xmin = 472.896
+            xmax = 474.249
+            text = "kùéshnyá"
+        intervals [3]
+            xmin = 474.249
+            xmax = 477.779
+            text = ""
+        intervals [4]
+            xmin = 477.779
+            xmax = 478.839
+            text = "ìmó"
+        intervals [5]
+            xmin = 478.839
+            xmax = 497.307
+            text = ""
+        intervals [6]
+            xmin = 497.307
+            xmax = 498.331
+            text = "ǹkányáke"
+        intervals [7]
+            xmin = 498.331
+            xmax = 508.771
+            text = ""
+        intervals [8]
+            xmin = 508.771
+            xmax = 509.831
+            text = "ǹgàgéːs"
+        intervals [9]
+            xmin = 509.831
+            xmax = 603.343
+            text = ""
+        intervals [10]
+            xmin = 603.343
+            xmax = 604.677
+            text = "ǹgáléshú"
+        intervals [11]
+            xmin = 604.677
+            xmax = 606.834
+            text = ""
+        intervals [12]
+            xmin = 606.834
+            xmax = 607.602
+            text = "ǹgáléshú"
+        intervals [13]
+            xmin = 607.602
+            xmax = 611.057
+            text = ""
+        intervals [14]
+            xmin = 611.057
+            xmax = 612.099
+            text = "ǹgáléshú"
+        intervals [15]
+            xmin = 612.099
+            xmax = 716.885
+            text = ""
+        intervals [16]
+            xmin = 716.885
+            xmax = 718.0
+            text = "ǹgáléshú"
+        intervals [17]
+            xmin = 718.0
+            xmax = 765.236
+            text = ""
+        intervals [18]
+            xmin = 765.236
+            xmax = 766.588
+            text = "ǹgákélètà"
+        intervals [19]
+            xmin = 766.588
+            xmax = 770.47
+            text = ""
+        intervals [20]
+            xmin = 770.47
+            xmax = 771.53
+            text = "ǹgákélètà"
+        intervals [21]
+            xmin = 771.53
+            xmax = 853.037
+            text = ""
+        intervals [22]
+            xmin = 853.037
+            xmax = 853.75
+            text = "ǹgáléshú"
+        intervals [23]
+            xmin = 853.75
+            xmax = 855.449
+            text = ""
+        intervals [24]
+            xmin = 855.449
+            xmax = 856.51
+            text = "ǹgáléshú"
+        intervals [25]
+            xmin = 856.51
+            xmax = 1030.377
+            text = ""
+        intervals [26]
+            xmin = 1030.377
+            xmax = 1031.546
+            text = ""
+        intervals [27]
+            xmin = 1031.546
+            xmax = 1096.057
+            text = ""
+    item[4]:
+        class = "IntervalTier"
+        name = "Original Transcription (Yonah Ndege)"
+        xmin = 0.0
+        xmax = 1096.057
+        intervals: size = 27
+        intervals [1]
+            xmin = 0.0
+            xmax = 472.896
+            text = ""
+        intervals [2]
+            xmin = 472.896
+            xmax = 474.249
+            text = "kyeshinya"
+        intervals [3]
+            xmin = 474.249
+            xmax = 477.779
+            text = ""
+        intervals [4]
+            xmin = 477.779
+            xmax = 478.839
+            text = ""
+        intervals [5]
+            xmin = 478.839
+            xmax = 497.307
+            text = ""
+        intervals [6]
+            xmin = 497.307
+            xmax = 498.331
+            text = "ngainyage"
+        intervals [7]
+            xmin = 498.331
+            xmax = 508.771
+            text = ""
+        intervals [8]
+            xmin = 508.771
+            xmax = 509.831
+            text = "ngages"
+        intervals [9]
+            xmin = 509.831
+            xmax = 603.343
+            text = ""
+        intervals [10]
+            xmin = 603.343
+            xmax = 604.677
+            text = "ngaleshu"
+        intervals [11]
+            xmin = 604.677
+            xmax = 606.834
+            text = ""
+        intervals [12]
+            xmin = 606.834
+            xmax = 607.602
+            text = "ngaleshu"
+        intervals [13]
+            xmin = 607.602
+            xmax = 611.057
+            text = ""
+        intervals [14]
+            xmin = 611.057
+            xmax = 612.099
+            text = "ngaleshu"
+        intervals [15]
+            xmin = 612.099
+            xmax = 716.885
+            text = ""
+        intervals [16]
+            xmin = 716.885
+            xmax = 718.0
+            text = "ngaleshu"
+        intervals [17]
+            xmin = 718.0
+            xmax = 765.236
+            text = ""
+        intervals [18]
+            xmin = 765.236
+            xmax = 766.588
+            text = "ngagileta"
+        intervals [19]
+            xmin = 766.588
+            xmax = 770.47
+            text = ""
+        intervals [20]
+            xmin = 770.47
+            xmax = 771.53
+            text = "ngagileta"
+        intervals [21]
+            xmin = 771.53
+            xmax = 853.037
+            text = ""
+        intervals [22]
+            xmin = 853.037
+            xmax = 853.75
+            text = "ngaleshu"
+        intervals [23]
+            xmin = 853.75
+            xmax = 855.449
+            text = ""
+        intervals [24]
+            xmin = 855.449
+            xmax = 856.51
+            text = "ngaleshu"
+        intervals [25]
+            xmin = 856.51
+            xmax = 1030.377
+            text = ""
+        intervals [26]
+            xmin = 1030.377
+            xmax = 1031.546
+            text = ""
+        intervals [27]
+            xmin = 1031.546
+            xmax = 1096.057
+            text = ""
+    item[5]:
+        class = "IntervalTier"
+        name = "Translation"
+        xmin = 0.0
+        xmax = 1096.057
+        intervals: size = 27
+        intervals [1]
+            xmin = 0.0
+            xmax = 472.896
+            text = ""
+        intervals [2]
+            xmin = 472.896
+            xmax = 474.249
+            text = "one"
+        intervals [3]
+            xmin = 474.249
+            xmax = 477.779
+            text = ""
+        intervals [4]
+            xmin = 477.779
+            xmax = 478.839
+            text = "two"
+        intervals [5]
+            xmin = 478.839
+            xmax = 497.307
+            text = ""
+        intervals [6]
+            xmin = 497.307
+            xmax = 498.331
+            text = "three"
+        intervals [7]
+            xmin = 498.331
+            xmax = 508.771
+            text = ""
+        intervals [8]
+            xmin = 508.771
+            xmax = 509.831
+            text = "four"
+        intervals [9]
+            xmin = 509.831
+            xmax = 603.343
+            text = ""
+        intervals [10]
+            xmin = 603.343
+            xmax = 604.677
+            text = "five"
+        intervals [11]
+            xmin = 604.677
+            xmax = 606.834
+            text = ""
+        intervals [12]
+            xmin = 606.834
+            xmax = 607.602
+            text = "five"
+        intervals [13]
+            xmin = 607.602
+            xmax = 611.057
+            text = ""
+        intervals [14]
+            xmin = 611.057
+            xmax = 612.099
+            text = "five"
+        intervals [15]
+            xmin = 612.099
+            xmax = 716.885
+            text = ""
+        intervals [16]
+            xmin = 716.885
+            xmax = 718.0
+            text = "five"
+        intervals [17]
+            xmin = 718.0
+            xmax = 765.236
+            text = ""
+        intervals [18]
+            xmin = 765.236
+            xmax = 766.588
+            text = "six"
+        intervals [19]
+            xmin = 766.588
+            xmax = 770.47
+            text = ""
+        intervals [20]
+            xmin = 770.47
+            xmax = 771.53
+            text = "six"
+        intervals [21]
+            xmin = 771.53
+            xmax = 853.037
+            text = ""
+        intervals [22]
+            xmin = 853.037
+            xmax = 853.75
+            text = "seven"
+        intervals [23]
+            xmin = 853.75
+            xmax = 855.449
+            text = ""
+        intervals [24]
+            xmin = 855.449
+            xmax = 856.51
+            text = "seven"
+        intervals [25]
+            xmin = 856.51
+            xmax = 1030.377
+            text = ""
+        intervals [26]
+            xmin = 1030.377
+            xmax = 1031.546
+            text = "nine"
+        intervals [27]
+            xmin = 1031.546
+            xmax = 1096.057
+            text = ""
