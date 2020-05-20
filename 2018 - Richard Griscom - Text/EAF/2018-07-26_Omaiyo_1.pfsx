@@ -94,7 +94,7 @@
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">67,27</Object>
+        <Object class="java.awt.Point">72,27</Object>
     </pref>
     <prefList key="ExportPraatDialog.TierOrder">
         <String>REF-ID</String>
@@ -111,14 +111,14 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///home/richard/Dropbox/GitHub Repos/MEDIA/Omaiyo Language Resources/2018 Audio and Images/Audio/2018-07-26_Omaiyo_1.wav</String>
+            <String>///home/richard/Dropbox/GitHub Repos/MEDIA/Omaiyo Language Resources/2018 - Richard Griscom - Audio and Images/Audio/2018-07-26_Omaiyo_1.wav</String>
         </pref>
     </prefGroup>
     <pref key="TimeScaleBeginTime">
         <Long>4112835</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>4120968</Long>
+        <Long>4117685</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="REF-ID">

@@ -238,11 +238,11 @@
         <Float>5.0</Float>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
-        <pref key="source_audio">
-            <String>///home/richard/Dropbox/GitHub Repos/MEDIA/Omaiyo Language Resources/2018 - Richard Griscom - Audio and Images/Audio/2018-07-26_Omaiyo_4.wav</String>
-        </pref>
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+        <pref key="source_audio">
+            <String>///home/richard/Dropbox/GitHub Repos/MEDIA/Omaiyo Language Resources/2018 - Richard Griscom - Audio and Images/Audio/2018-07-26_Omaiyo_4.wav</String>
         </pref>
     </prefGroup>
     <pref key="TranscriptionTable.LastActiveColumn">
