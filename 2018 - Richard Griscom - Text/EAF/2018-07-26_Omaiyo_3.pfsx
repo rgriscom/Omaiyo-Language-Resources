@@ -17,6 +17,9 @@
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
+    <pref key="LayoutManager.ControlPanelWidth">
+        <Int>232</Int>
+    </pref>
     <pref key="MultiTierViewer.ActiveTierName">
         <String>REF-ID</String>
     </pref>
