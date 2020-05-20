@@ -2,6 +2,8 @@
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 ![This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License][1]
 
+Please visit [the project on OSF](https://osf.io/jwqta/) for all related data files. Machine-readable text files for the project are hosted here on GitHub.
+
 ## 1. Introduction
 This project is a collection of data from a variety of different sources, all related to the [unclassified language](https://en.wikipedia.org/wiki/Unclassified_language) of northern [Tanzania](https://en.wikipedia.org/wiki/Tanzania) known as [Omaiyo or Omaio](https://en.wikipedia.org/wiki/Omaio_language). As of the last data collection period in 2018, this language was [moribund](https://en.wikipedia.org/wiki/Endangered_language) and spoken by only three semi-speakers:
 
