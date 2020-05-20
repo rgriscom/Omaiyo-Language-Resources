@@ -9,7 +9,7 @@ This project is a collection of data from a variety of different sources, all re
 * **Leperia Mbogo:** Male, ~75 years old. Knows a few words, brother of Nairuko. Very frail and unable to see well.  
 * **Langaseki Olepaw:** Male, ~80 years old. Learned some Omaiyo from the other speakers but was not raised as an Omaiyo speaker.
 
-![Image of speakers](https://www.dropbox.com/s/7frxownbr631wl0/unnamed%20-%202.jpg?raw=1 =600x60)
+![Image of speakers](https://www.dropbox.com/s/7frxownbr631wl0/unnamed%20-%202.jpg?raw=1)
 *A photo of the three remaining speakers of Omaiyo. From right to left: the local chairman, Langaseki Olepaw, Leperia Mbogo, Daudi Peterson, Nairuko Siruwananga, and Alina Redka.*
 
 
